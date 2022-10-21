@@ -2,8 +2,8 @@
     "english": [
         {
             "language": "dutch",
-            "path": "dutch-english.json",
-            "length": 22747,
+            "name": "dutch-english",
+            "headwords": 22747,
             "maintainers": [
                 "Sebastian Humenda",
                 "Michael Bunk",
@@ -12,8 +12,8 @@
         },
         {
             "language": "french",
-            "path": "french-english.json",
-            "length": 8505,
+            "name": "french-english",
+            "headwords": 8505,
             "maintainers": [
                 "Sebastian Humenda",
                 "Yota Moteuchi",
@@ -25,8 +25,8 @@
         },
         {
             "language": "german",
-            "path": "german-english.json",
-            "length": 517534,
+            "name": "german-english",
+            "headwords": 517534,
             "maintainers": [
                 "Einhard Leichtfuß",
                 "Frank Richter"
@@ -34,8 +34,8 @@
         },
         {
             "language": "italian",
-            "path": "italian-english.json",
-            "length": 3429,
+            "name": "italian-english",
+            "headwords": 3429,
             "maintainers": [
                 "Sebastian Humenda",
                 "Piotr Bański",
@@ -45,8 +45,8 @@
         },
         {
             "language": "portuguese",
-            "path": "portuguese-english.json",
-            "length": 10661,
+            "name": "portuguese-english",
+            "headwords": 10661,
             "maintainers": [
                 "Sebastian Humenda",
                 "Piotr Bański",
@@ -56,8 +56,8 @@
         },
         {
             "language": "spanish",
-            "path": "spanish-english.json",
-            "length": 4502,
+            "name": "spanish-english.json",
+            "headwords": 4502,
             "maintainers": [
                 "Sebastian Humenda",
                 "Tom Green",
