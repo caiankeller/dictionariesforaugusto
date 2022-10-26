@@ -49,118 +49,118 @@
       "of ... to"
     ]
   },
-  "ADN": {
+  "adn": {
     "word": "ADN",
     "pronunciation": "ad",
     "definition": [
       "DNA"
     ]
   },
-  "Abkhasie": {
+  "abkhasie": {
     "word": "Abkhasie",
     "pronunciation": "abkazi",
     "definition": [
       "Abkhazia"
     ]
   },
-  "Abkhasien": {
+  "abkhasien": {
     "word": "Abkhasien",
     "pronunciation": "abkazi",
     "definition": [
       "Abkhazian"
     ]
   },
-  "Abyssin": {
+  "abyssin": {
     "word": "Abyssin",
     "pronunciation": "abisɛ̃",
     "definition": [
       "Abyssinian"
     ]
   },
-  "Abyssinie": {
+  "abyssinie": {
     "word": "Abyssinie",
     "pronunciation": "abisini",
     "definition": [
       "Abyssinia"
     ]
   },
-  "Achille": {
+  "achille": {
     "word": "Achille",
     "pronunciation": "aʃi",
     "definition": [
       "Achilles"
     ]
   },
-  "Achéron": {
+  "achéron": {
     "word": "Achéron",
     "pronunciation": "aʃeʀɔ̃",
     "definition": [
       "Acheron"
     ]
   },
-  "Adam": {
+  "adam": {
     "word": "Adam",
     "pronunciation": "adam",
     "definition": [
       "Adam"
     ]
   },
-  "Addis-Abeba": {
+  "addis-abeba": {
     "word": "Addis-Abeba",
     "definition": [
       "Addis Ababa"
     ]
   },
-  "Aden": {
+  "aden": {
     "word": "Aden",
     "pronunciation": "adɛn",
     "definition": [
       "Aden"
     ]
   },
-  "Adjarie": {
+  "adjarie": {
     "word": "Adjarie",
     "pronunciation": "adʒaʀi",
     "definition": [
       "Adzharia"
     ]
   },
-  "Adonis": {
+  "adonis": {
     "word": "Adonis",
     "pronunciation": "adoni",
     "definition": [
       "Adonis"
     ]
   },
-  "Afghan": {
+  "afghan": {
     "word": "Afghan",
     "pronunciation": "afgɑ̃",
     "definition": [
       "Afghan"
     ]
   },
-  "Afghane": {
+  "afghane": {
     "word": "Afghane",
     "pronunciation": "afgan",
     "definition": [
       "Afghan woman"
     ]
   },
-  "Afghanistan": {
+  "afghanistan": {
     "word": "Afghanistan",
     "pronunciation": "afganistɑ̃",
     "definition": [
       "Afghanistan"
     ]
   },
-  "Africain": {
+  "africain": {
     "word": "Africain",
     "pronunciation": "afʀikɛ̃",
     "definition": [
       "African"
     ]
   },
-  "Afrikander": {
+  "afrikander": {
     "word": "Afrikander",
     "pronunciation": "afʀikɑ̃de",
     "definition": [
@@ -168,153 +168,153 @@
       "Boer"
     ]
   },
-  "Afrique": {
+  "afrique": {
     "word": "Afrique",
     "pronunciation": "afʀik",
     "definition": [
       "Africa"
     ]
   },
-  "Afrique du Nord": {
+  "afrique du nord": {
     "word": "Afrique du Nord",
     "pronunciation": "afʀikdynɔʀ",
     "definition": [
       "North Africa"
     ]
   },
-  "Afrique du Sud": {
+  "afrique du sud": {
     "word": "Afrique du Sud",
     "pronunciation": "afʀikdysyd",
     "definition": [
       "South Africa"
     ]
   },
-  "Agamemnon": {
+  "agamemnon": {
     "word": "Agamemnon",
     "pronunciation": "agamɛnɔ̃",
     "definition": [
       "Agamemnon"
     ]
   },
-  "Agathe": {
+  "agathe": {
     "word": "Agathe",
     "pronunciation": "agat",
     "definition": [
       "Agatha"
     ]
   },
-  "Aix-la-Chapelle": {
+  "aix-la-chapelle": {
     "word": "Aix-la-Chapelle",
     "definition": [
       "Aix-la-Chapelle"
     ]
   },
-  "Ajax": {
+  "ajax": {
     "word": "Ajax",
     "pronunciation": "aʒaks",
     "definition": [
       "Ajax"
     ]
   },
-  "Albanais": {
+  "albanais": {
     "word": "Albanais",
     "pronunciation": "albanɛ",
     "definition": [
       "Albanian"
     ]
   },
-  "Albanie": {
+  "albanie": {
     "word": "Albanie",
     "pronunciation": "albani",
     "definition": [
       "Albania"
     ]
   },
-  "Albe": {
+  "albe": {
     "word": "Albe",
     "pronunciation": "alb",
     "definition": [
       "Alva"
     ]
   },
-  "Albert": {
+  "albert": {
     "word": "Albert",
     "pronunciation": "albɛʀ",
     "definition": [
       "Albert"
     ]
   },
-  "Alberta": {
+  "alberta": {
     "word": "Alberta",
     "pronunciation": "albɛʀta",
     "definition": [
       "Alberta"
     ]
   },
-  "Alep": {
+  "alep": {
     "word": "Alep",
     "pronunciation": "alɛp",
     "definition": [
       "Aleppo"
     ]
   },
-  "Alexandre": {
+  "alexandre": {
     "word": "Alexandre",
     "pronunciation": "alɛksɑ̃dʀ",
     "definition": [
       "Alexander"
     ]
   },
-  "Alexandrie": {
+  "alexandrie": {
     "word": "Alexandrie",
     "pronunciation": "alɛksɑ̃dʀi",
     "definition": [
       "Alexandria"
     ]
   },
-  "Alger": {
+  "alger": {
     "word": "Alger",
     "pronunciation": "alʒe",
     "definition": [
       "Algiers"
     ]
   },
-  "Algérie": {
+  "algérie": {
     "word": "Algérie",
     "pronunciation": "alʒeʀi",
     "definition": [
       "Algeria"
     ]
   },
-  "Algérien": {
+  "algérien": {
     "word": "Algérien",
     "pronunciation": "alʒeʀi",
     "definition": [
       "Algerian"
     ]
   },
-  "Allemagne": {
+  "allemagne": {
     "word": "Allemagne",
     "pronunciation": "aləmanj",
     "definition": [
       "Germany"
     ]
   },
-  "Allemagne de l'Ouest": {
+  "allemagne de l'ouest": {
     "word": "Allemagne de l'Ouest",
     "pronunciation": "aləmanjdəlwɛst",
     "definition": [
       "West Germany"
     ]
   },
-  "Allemand": {
+  "allemand": {
     "word": "Allemand",
     "pronunciation": "aləmɑ̃",
     "definition": [
       "German"
     ]
   },
-  "Allemande": {
+  "allemande": {
     "word": "Allemande",
     "pronunciation": "aləmɑ̃d",
     "definition": [
@@ -322,49 +322,49 @@
       "German woman"
     ]
   },
-  "Alost": {
+  "alost": {
     "word": "Alost",
     "pronunciation": "alɔst",
     "definition": [
       "Alost"
     ]
   },
-  "Alpes": {
+  "alpes": {
     "word": "Alpes",
     "pronunciation": "alp",
     "definition": [
       "Alps"
     ]
   },
-  "Alpes graies": {
+  "alpes graies": {
     "word": "Alpes graies",
     "pronunciation": "alpgʀɛ",
     "definition": [
       "Graian Alps"
     ]
   },
-  "Alsacien": {
+  "alsacien": {
     "word": "Alsacien",
     "pronunciation": "alsasi",
     "definition": [
       "Alsatian"
     ]
   },
-  "Amboine": {
+  "amboine": {
     "word": "Amboine",
     "pronunciation": "ɑ̃bwan",
     "definition": [
       "Amboina"
     ]
   },
-  "Amsterdam": {
+  "amsterdam": {
     "word": "Amsterdam",
     "pronunciation": "amstɛʀdam",
     "definition": [
       "Amsterdam"
     ]
   },
-  "Américain": {
+  "américain": {
     "word": "Américain",
     "pronunciation": "ameʀikɛ̃",
     "definition": [
@@ -372,77 +372,77 @@
       "US citizen"
     ]
   },
-  "Amérique": {
+  "amérique": {
     "word": "Amérique",
     "pronunciation": "ameʀik",
     "definition": [
       "America"
     ]
   },
-  "Amérique centrale": {
+  "amérique centrale": {
     "word": "Amérique centrale",
     "pronunciation": "ameʀiksɑ̃tʀal",
     "definition": [
       "Central America"
     ]
   },
-  "Amérique du Nord": {
+  "amérique du nord": {
     "word": "Amérique du Nord",
     "pronunciation": "ameʀikdynɔʀ",
     "definition": [
       "North America"
     ]
   },
-  "Amérique du Sud": {
+  "amérique du sud": {
     "word": "Amérique du Sud",
     "pronunciation": "ameʀikdysyd",
     "definition": [
       "South America"
     ]
   },
-  "Amérique septentrionale": {
+  "amérique septentrionale": {
     "word": "Amérique septentrionale",
     "pronunciation": "ameʀiksɛptɑ̃tʀjonal",
     "definition": [
       "North America"
     ]
   },
-  "Andalou": {
+  "andalou": {
     "word": "Andalou",
     "pronunciation": "ɑ̃dalu",
     "definition": [
       "Andalusian"
     ]
   },
-  "Andalouse": {
+  "andalouse": {
     "word": "Andalouse",
     "pronunciation": "ɑ̃daluz",
     "definition": [
       "Andalusian woman"
     ]
   },
-  "Andalousie": {
+  "andalousie": {
     "word": "Andalousie",
     "pronunciation": "ɑ̃daluzi",
     "definition": [
       "Andalusia"
     ]
   },
-  "Andorre": {
+  "andorre": {
     "word": "Andorre",
     "pronunciation": "ɑ̃dɔʀ",
     "definition": [
       "Andorra"
     ]
   },
-  "Andrinople": {
+  "andrinople": {
     "word": "Andrinople",
     "pronunciation": "ɑ̃dʀinopl",
     "definition": [
       "Adrianople"
     ]
   },
-  "Anglais": {
+  "anglais": {
     "word": "Anglais",
     "pronunciation": "ɑ̃glɛ",
     "definition": [
@@ -450,7 +450,7 @@
       "Sassenach"
     ]
   },
-  "Angle": {
+  "angle": {
     "word": "Angle",
     "pronunciation": "ɑ̃gl",
     "definition": [
@@ -458,42 +458,42 @@
       "Sassenach"
     ]
   },
-  "Angleterre": {
+  "angleterre": {
     "word": "Angleterre",
     "pronunciation": "ɑ̃glətɛʀ",
     "definition": [
       "England"
     ]
   },
-  "Anglo-Saxon": {
+  "anglo-saxon": {
     "word": "Anglo-Saxon",
     "pronunciation": "ɑ̃glosaksɔ̃",
     "definition": [
       "anglo-saxon"
     ]
   },
-  "Angolais": {
+  "angolais": {
     "word": "Angolais",
     "pronunciation": "ɑ̃gɔlɛ",
     "definition": [
       "Angolese"
     ]
   },
-  "Anne": {
+  "anne": {
     "word": "Anne",
     "pronunciation": "an",
     "definition": [
       "Ann"
     ]
   },
-  "Annibal": {
+  "annibal": {
     "word": "Annibal",
     "pronunciation": "anibal",
     "definition": [
       "Hannibal"
     ]
   },
-  "Annonciation": {
+  "annonciation": {
     "word": "Annonciation",
     "pronunciation": "anɔ̃sjasjɔ̃",
     "definition": [
@@ -501,49 +501,49 @@
       "Lady Day"
     ]
   },
-  "Antarctique": {
+  "antarctique": {
     "word": "Antarctique",
     "pronunciation": "ɑ̃taʀktik",
     "definition": [
       "Antarctic"
     ]
   },
-  "Antillais": {
+  "antillais": {
     "word": "Antillais",
     "pronunciation": "ɑ̃tijɛ",
     "definition": [
       "Antillian"
     ]
   },
-  "Antilles": {
+  "antilles": {
     "word": "Antilles",
     "pronunciation": "ɑ̃tij",
     "definition": [
       "Antilles"
     ]
   },
-  "Antioche": {
+  "antioche": {
     "word": "Antioche",
     "pronunciation": "ɑ̃sjoʃ",
     "definition": [
       "Antioch"
     ]
   },
-  "Antoine": {
+  "antoine": {
     "word": "Antoine",
     "pronunciation": "ɑ̃twan",
     "definition": [
       "Antony"
     ]
   },
-  "Anvers": {
+  "anvers": {
     "word": "Anvers",
     "pronunciation": "ɑ̃vɛʀ",
     "definition": [
       "Antwerp"
     ]
   },
-  "Apache": {
+  "apache": {
     "word": "Apache",
     "pronunciation": "apaʃ",
     "definition": [
@@ -552,49 +552,49 @@
       "ruffian"
     ]
   },
-  "Apennins": {
+  "apennins": {
     "word": "Apennins",
     "pronunciation": "apɛnɛ̃",
     "definition": [
       "Apennines"
     ]
   },
-  "Aphrodite": {
+  "aphrodite": {
     "word": "Aphrodite",
     "pronunciation": "afʀɔdit",
     "definition": [
       "Aphrodite"
     ]
   },
-  "Apocalypse": {
+  "apocalypse": {
     "word": "Apocalypse",
     "pronunciation": "apokalips",
     "definition": [
       "Apocalypse"
     ]
   },
-  "Apollon": {
+  "apollon": {
     "word": "Apollon",
     "pronunciation": "apɔlɔ̃",
     "definition": [
       "Apollo"
     ]
   },
-  "Appalaches": {
+  "appalaches": {
     "word": "Appalaches",
     "pronunciation": "apalaʃ",
     "definition": [
       "Appalachian Mountains"
     ]
   },
-  "Aquitaine": {
+  "aquitaine": {
     "word": "Aquitaine",
     "pronunciation": "akitɛn",
     "definition": [
       "Aquitaine"
     ]
   },
-  "Arabe": {
+  "arabe": {
     "word": "Arabe",
     "pronunciation": "aʀab",
     "definition": [
@@ -602,112 +602,112 @@
       "Arab"
     ]
   },
-  "Arabie": {
+  "arabie": {
     "word": "Arabie",
     "pronunciation": "aʀabi",
     "definition": [
       "Arabia"
     ]
   },
-  "Arcadie": {
+  "arcadie": {
     "word": "Arcadie",
     "pronunciation": "aʀkadi",
     "definition": [
       "Arcadia"
     ]
   },
-  "Archimède": {
+  "archimède": {
     "word": "Archimède",
     "pronunciation": "aʀʃimɛd",
     "definition": [
       "Archimedes"
     ]
   },
-  "Ardennes": {
+  "ardennes": {
     "word": "Ardennes",
     "pronunciation": "aʀdɛn",
     "definition": [
       "Ardennes"
     ]
   },
-  "Argentin": {
+  "argentin": {
     "word": "Argentin",
     "pronunciation": "aʀʒɑ̃tɛ̃",
     "definition": [
       "Argentine"
     ]
   },
-  "Argentine": {
+  "argentine": {
     "word": "Argentine",
     "pronunciation": "aʀʒɑ̃tin",
     "definition": [
       "Argentina"
     ]
   },
-  "Argus": {
+  "argus": {
     "word": "Argus",
     "pronunciation": "aʀgy",
     "definition": [
       "Argus"
     ]
   },
-  "Ariane": {
+  "ariane": {
     "word": "Ariane",
     "pronunciation": "aʀjan",
     "definition": [
       "Ariadne"
     ]
   },
-  "Aristote": {
+  "aristote": {
     "word": "Aristote",
     "pronunciation": "aʀistɔt",
     "definition": [
       "Aristotle"
     ]
   },
-  "Armorique": {
+  "armorique": {
     "word": "Armorique",
     "pronunciation": "aʀmoʀik",
     "definition": [
       "Armorica"
     ]
   },
-  "Arménie": {
+  "arménie": {
     "word": "Arménie",
     "pronunciation": "aʀmeni",
     "definition": [
       "Armenia"
     ]
   },
-  "Arménien": {
+  "arménien": {
     "word": "Arménien",
     "pronunciation": "aʀmeni",
     "definition": [
       "Armenian"
     ]
   },
-  "Arménienne": {
+  "arménienne": {
     "word": "Arménienne",
     "pronunciation": "aʀmenjɛn",
     "definition": [
       "Armenian woman"
     ]
   },
-  "Arras": {
+  "arras": {
     "word": "Arras",
     "pronunciation": "aʀa",
     "definition": [
       "Arras"
     ]
   },
-  "Aryen": {
+  "aryen": {
     "word": "Aryen",
     "pronunciation": "aʀj",
     "definition": [
       "Aryan"
     ]
   },
-  "Asiate": {
+  "asiate": {
     "word": "Asiate",
     "pronunciation": "azjat",
     "definition": [
@@ -715,7 +715,7 @@
       "Asian"
     ]
   },
-  "Asiatique": {
+  "asiatique": {
     "word": "Asiatique",
     "pronunciation": "azjatik",
     "definition": [
@@ -723,62 +723,62 @@
       "Asian"
     ]
   },
-  "Asie": {
+  "asie": {
     "word": "Asie",
     "pronunciation": "azi",
     "definition": [
       "Asia"
     ]
   },
-  "Asie Mineure": {
+  "asie mineure": {
     "word": "Asie Mineure",
     "pronunciation": "aziminœʀ",
     "definition": [
       "Asia Minor"
     ]
   },
-  "Asie du Sud-Est": {
+  "asie du sud-est": {
     "word": "Asie du Sud-Est",
     "definition": [
       "Sout-East Asia"
     ]
   },
-  "Assomption": {
+  "assomption": {
     "word": "Assomption",
     "pronunciation": "asɔ̃psjɔ̃",
     "definition": [
       "Assumption"
     ]
   },
-  "Assyrie": {
+  "assyrie": {
     "word": "Assyrie",
     "pronunciation": "assɛ̃ʀi",
     "definition": [
       "Assyria"
     ]
   },
-  "Assyrien": {
+  "assyrien": {
     "word": "Assyrien",
     "pronunciation": "assɛ̃ʀi",
     "definition": [
       "Assyrian"
     ]
   },
-  "Asturies": {
+  "asturies": {
     "word": "Asturies",
     "pronunciation": "astyʀi",
     "definition": [
       "Asturias"
     ]
   },
-  "Atabasca": {
+  "atabasca": {
     "word": "Atabasca",
     "pronunciation": "atabaska",
     "definition": [
       "Athabasca"
     ]
   },
-  "Athènes": {
+  "athènes": {
     "word": "Athènes",
     "pronunciation": "atɛn",
     "definition": [
@@ -787,84 +787,84 @@
       "Athens"
     ]
   },
-  "Athénien": {
+  "athénien": {
     "word": "Athénien",
     "pronunciation": "ateni",
     "definition": [
       "Athenian"
     ]
   },
-  "Atlas": {
+  "atlas": {
     "word": "Atlas",
     "pronunciation": "atla",
     "definition": [
       "Atlas"
     ]
   },
-  "Attique": {
+  "attique": {
     "word": "Attique",
     "pronunciation": "atik",
     "definition": [
       "Attica"
     ]
   },
-  "Augias": {
+  "augias": {
     "word": "Augias",
     "pronunciation": "oʒja",
     "definition": [
       "Augeas"
     ]
   },
-  "Auguste": {
+  "auguste": {
     "word": "Auguste",
     "pronunciation": "ogyst",
     "definition": [
       "Augustus"
     ]
   },
-  "Aurigny": {
+  "aurigny": {
     "word": "Aurigny",
     "pronunciation": "oʀinji",
     "definition": [
       "Alderney"
     ]
   },
-  "Australie": {
+  "australie": {
     "word": "Australie",
     "pronunciation": "ostʀali",
     "definition": [
       "Australia"
     ]
   },
-  "Australien": {
+  "australien": {
     "word": "Australien",
     "pronunciation": "ɔstʀaljɛ̃",
     "definition": [
       "Australian"
     ]
   },
-  "Australienne": {
+  "australienne": {
     "word": "Australienne",
     "pronunciation": "ɔstʀaljɛn",
     "definition": [
       "Australian woman"
     ]
   },
-  "Autriche": {
+  "autriche": {
     "word": "Autriche",
     "pronunciation": "otʀiʃ",
     "definition": [
       "Austria"
     ]
   },
-  "Autrichien": {
+  "autrichien": {
     "word": "Autrichien",
     "pronunciation": "otʀiʃi",
     "definition": [
       "Austrian"
     ]
   },
-  "Babel": {
+  "babel": {
     "word": "Babel",
     "pronunciation": "babɛl",
     "definition": [
@@ -872,7 +872,7 @@
       "Babylon"
     ]
   },
-  "Babylone": {
+  "babylone": {
     "word": "Babylone",
     "pronunciation": "babilon",
     "definition": [
@@ -880,111 +880,111 @@
       "Babylon"
     ]
   },
-  "Babylonie": {
+  "babylonie": {
     "word": "Babylonie",
     "pronunciation": "babiloni",
     "definition": [
       "Babylonia"
     ]
   },
-  "Bacchus": {
+  "bacchus": {
     "word": "Bacchus",
     "pronunciation": "bakʃy",
     "definition": [
       "Bacchus"
     ]
   },
-  "Balinais": {
+  "balinais": {
     "word": "Balinais",
     "pronunciation": "balinɛ",
     "definition": [
       "Balinese"
     ]
   },
-  "Balkans": {
+  "balkans": {
     "word": "Balkans",
     "pronunciation": "balkɑ̃",
     "definition": [
       "Balkans"
     ]
   },
-  "Baléares": {
+  "baléares": {
     "word": "Baléares",
     "pronunciation": "baleaʀ",
     "definition": [
       "Balearic Islands"
     ]
   },
-  "Bantou": {
+  "bantou": {
     "word": "Bantou",
     "pronunciation": "bɑ̃tu",
     "definition": [
       "Bantu"
     ]
   },
-  "Barbade": {
+  "barbade": {
     "word": "Barbade",
     "pronunciation": "baʀbad",
     "definition": [
       "Barbados"
     ]
   },
-  "Barbe-Bleue": {
+  "barbe-bleue": {
     "word": "Barbe-Bleue",
     "definition": [
       "Bluebeard"
     ]
   },
-  "Barcelone": {
+  "barcelone": {
     "word": "Barcelone",
     "pronunciation": "baʀsəlon",
     "definition": [
       "Barcelona"
     ]
   },
-  "Barry": {
+  "barry": {
     "word": "Barry",
     "pronunciation": "baʀi",
     "definition": [
       "Barry"
     ]
   },
-  "Barthélemy": {
+  "barthélemy": {
     "word": "Barthélemy",
     "pronunciation": "baʀtelɑ̃mi",
     "definition": [
       "Bartolomew"
     ]
   },
-  "Basque": {
+  "basque": {
     "word": "Basque",
     "pronunciation": "bask",
     "definition": [
       "Basque"
     ]
   },
-  "Batave": {
+  "batave": {
     "word": "Batave",
     "pronunciation": "batav",
     "definition": [
       "Batavian"
     ]
   },
-  "Bavarois": {
+  "bavarois": {
     "word": "Bavarois",
     "pronunciation": "bavaʀwa",
     "definition": [
       "Bavarian"
     ]
   },
-  "Bavière": {
+  "bavière": {
     "word": "Bavière",
     "pronunciation": "bavjɛʀ",
     "definition": [
       "Bavaria"
     ]
   },
-  "Belge": {
+  "belge": {
     "word": "Belge",
     "pronunciation": "bɛlʒ",
     "definition": [
@@ -992,35 +992,35 @@
       "Belgian woman"
     ]
   },
-  "Belgique": {
+  "belgique": {
     "word": "Belgique",
     "pronunciation": "bɛlʒik",
     "definition": [
       "Belgium"
     ]
   },
-  "Belgrade": {
+  "belgrade": {
     "word": "Belgrade",
     "pronunciation": "bɛlgʀad",
     "definition": [
       "Belgrade"
     ]
   },
-  "Benelux": {
+  "benelux": {
     "word": "Benelux",
     "pronunciation": "bənəly",
     "definition": [
       "Benelux"
     ]
   },
-  "Bengale": {
+  "bengale": {
     "word": "Bengale",
     "pronunciation": "bɑ̃gal",
     "definition": [
       "Bengal"
     ]
   },
-  "Benoît": {
+  "benoît": {
     "word": "Benoît",
     "pronunciation": "bənwa",
     "definition": [
@@ -1028,84 +1028,84 @@
       "Benedict"
     ]
   },
-  "Berlin": {
+  "berlin": {
     "word": "Berlin",
     "pronunciation": "bɛʀlɛ̃",
     "definition": [
       "Berlin"
     ]
   },
-  "Berlinois": {
+  "berlinois": {
     "word": "Berlinois",
     "pronunciation": "bɛʀlinwa",
     "definition": [
       "Berliner"
     ]
   },
-  "Bermudes": {
+  "bermudes": {
     "word": "Bermudes",
     "pronunciation": "bɛʀmyd",
     "definition": [
       "Bermudas"
     ]
   },
-  "Berne": {
+  "berne": {
     "word": "Berne",
     "pronunciation": "bɛʀn",
     "definition": [
       "Berne"
     ]
   },
-  "Bernois": {
+  "bernois": {
     "word": "Bernois",
     "pronunciation": "bɛʀnwa",
     "definition": [
       "Bernese"
     ]
   },
-  "Bessarabie": {
+  "bessarabie": {
     "word": "Bessarabie",
     "pronunciation": "bɛsaʀabi",
     "definition": [
       "Bessarabia"
     ]
   },
-  "Bethléem": {
+  "bethléem": {
     "word": "Bethléem",
     "pronunciation": "bɛtleɛm",
     "definition": [
       "Bethlehem"
     ]
   },
-  "Bible": {
+  "bible": {
     "word": "Bible",
     "pronunciation": "bibl",
     "definition": [
       "Bible"
     ]
   },
-  "Birman": {
+  "birman": {
     "word": "Birman",
     "pronunciation": "biʀman",
     "definition": [
       "Burmese"
     ]
   },
-  "Birmane": {
+  "birmane": {
     "word": "Birmane",
     "pronunciation": "biʀman",
     "definition": [
       "Burmese woman"
     ]
   },
-  "Birmanie": {
+  "birmanie": {
     "word": "Birmanie",
     "pronunciation": "biʀmani",
     "definition": [
       "Burma"
     ]
   },
-  "Boer": {
+  "boer": {
     "word": "Boer",
     "pronunciation": "be",
     "definition": [
@@ -1113,90 +1113,90 @@
       "Boer"
     ]
   },
-  "Bohémien": {
+  "bohémien": {
     "word": "Bohémien",
     "pronunciation": "boemi",
     "definition": [
       "Bohemian"
     ]
   },
-  "Bohême": {
+  "bohême": {
     "word": "Bohême",
     "pronunciation": "boɛm",
     "definition": [
       "Bohemia"
     ]
   },
-  "Bois-le-Duc": {
+  "bois-le-duc": {
     "word": "Bois-le-Duc",
     "definition": [
       "Bois-le-Duc"
     ]
   },
-  "Bolivie": {
+  "bolivie": {
     "word": "Bolivie",
     "pronunciation": "bɔlivi",
     "definition": [
       "Bolivia"
     ]
   },
-  "Bolivien": {
+  "bolivien": {
     "word": "Bolivien",
     "pronunciation": "bɔlivi",
     "definition": [
       "Bolivian"
     ]
   },
-  "Boschiman": {
+  "boschiman": {
     "word": "Boschiman",
     "pronunciation": "boʃimɑ̃",
     "definition": [
       "Bushman"
     ]
   },
-  "Bosnie": {
+  "bosnie": {
     "word": "Bosnie",
     "pronunciation": "bosni",
     "definition": [
       "Bosnia"
     ]
   },
-  "Bosnien": {
+  "bosnien": {
     "word": "Bosnien",
     "pronunciation": "bosni",
     "definition": [
       "Bosnian"
     ]
   },
-  "Bosphore": {
+  "bosphore": {
     "word": "Bosphore",
     "pronunciation": "bosfɔʀ",
     "definition": [
       "Bosporus"
     ]
   },
-  "Bouddha": {
+  "bouddha": {
     "word": "Bouddha",
     "pronunciation": "buda",
     "definition": [
       "Buddha"
     ]
   },
-  "Brabant": {
+  "brabant": {
     "word": "Brabant",
     "pronunciation": "bʀabɑ̃",
     "definition": [
       "Brabant"
     ]
   },
-  "Brabançon": {
+  "brabançon": {
     "word": "Brabançon",
     "pronunciation": "bʀabɑ̃sɔ̃",
     "definition": [
       "Brabantine"
     ]
   },
-  "Bretagne": {
+  "bretagne": {
     "word": "Bretagne",
     "pronunciation": "bʀətagn",
     "definition": [
@@ -1204,49 +1204,49 @@
       "Brittany"
     ]
   },
-  "Breton": {
+  "breton": {
     "word": "Breton",
     "pronunciation": "bʀətɔ̃",
     "definition": [
       "Breton"
     ]
   },
-  "Britannique": {
+  "britannique": {
     "word": "Britannique",
     "pronunciation": "bʀitanik",
     "definition": [
       "Briton"
     ]
   },
-  "Bruges": {
+  "bruges": {
     "word": "Bruges",
     "pronunciation": "bʀyʒ",
     "definition": [
       "Bruges"
     ]
   },
-  "Bruxelles": {
+  "bruxelles": {
     "word": "Bruxelles",
     "pronunciation": "bʀyksɛl",
     "definition": [
       "Brussels"
     ]
   },
-  "Brésil": {
+  "brésil": {
     "word": "Brésil",
     "pronunciation": "bʀezil",
     "definition": [
       "Brazil"
     ]
   },
-  "Brésilien": {
+  "brésilien": {
     "word": "Brésilien",
     "pronunciation": "bʀezili",
     "definition": [
       "Brazilian"
     ]
   },
-  "Bulgare": {
+  "bulgare": {
     "word": "Bulgare",
     "pronunciation": "bylgaʀ",
     "definition": [
@@ -1254,14 +1254,14 @@
       "Bulgarian"
     ]
   },
-  "Byzance": {
+  "byzance": {
     "word": "Byzance",
     "pronunciation": "bizɑ̃s",
     "definition": [
       "Byzantium"
     ]
   },
-  "Bâle": {
+  "bâle": {
     "word": "Bâle",
     "pronunciation": "bal",
     "definition": [
@@ -1269,42 +1269,42 @@
       "Basle"
     ]
   },
-  "Bédouin": {
+  "bédouin": {
     "word": "Bédouin",
     "pronunciation": "bedwɛ̃",
     "definition": [
       "Bedouin"
     ]
   },
-  "Cachemire": {
+  "cachemire": {
     "word": "Cachemire",
     "pronunciation": "kaʃəmiʀ",
     "definition": [
       "Kashmir"
     ]
   },
-  "Calabre": {
+  "calabre": {
     "word": "Calabre",
     "pronunciation": "kalabʀ",
     "definition": [
       "Calabria"
     ]
   },
-  "Californie": {
+  "californie": {
     "word": "Californie",
     "pronunciation": "kalifoʀni",
     "definition": [
       "California"
     ]
   },
-  "Californien": {
+  "californien": {
     "word": "Californien",
     "pronunciation": "kalifoʀni",
     "definition": [
       "Californian"
     ]
   },
-  "Calvaire": {
+  "calvaire": {
     "word": "Calvaire",
     "pronunciation": "kalvɛʀ",
     "definition": [
@@ -1312,83 +1312,83 @@
       "Golgotha"
     ]
   },
-  "Calvin": {
+  "calvin": {
     "word": "Calvin",
     "pronunciation": "kalvɛ̃",
     "definition": [
       "Calvin"
     ]
   },
-  "Cambodge": {
+  "cambodge": {
     "word": "Cambodge",
     "pronunciation": "kɑ̃bɔdʒ",
     "definition": [
       "Cambodia"
     ]
   },
-  "Cambodgien": {
+  "cambodgien": {
     "word": "Cambodgien",
     "pronunciation": "kɑ̃bɔʒi",
     "definition": [
       "Cambodian"
     ]
   },
-  "Cambodgienne": {
+  "cambodgienne": {
     "word": "Cambodgienne",
     "pronunciation": "kɑ̃bɔdʒjɛn",
     "definition": [
       "Cambodian woman"
     ]
   },
-  "Cameroun": {
+  "cameroun": {
     "word": "Cameroun",
     "pronunciation": "kaməʀu",
     "definition": [
       "Cameroon"
     ]
   },
-  "Canada": {
+  "canada": {
     "word": "Canada",
     "pronunciation": "kanada",
     "definition": [
       "Canada"
     ]
   },
-  "Canadien": {
+  "canadien": {
     "word": "Canadien",
     "pronunciation": "kanadi",
     "definition": [
       "Canadian"
     ]
   },
-  "Canadienne": {
+  "canadienne": {
     "word": "Canadienne",
     "pronunciation": "kanadjɛn",
     "definition": [
       "Canadian woman"
     ]
   },
-  "Cap-des-Caissie": {
+  "cap-des-caissie": {
     "word": "Cap-des-Caissie",
     "definition": [
       "Caissie Cape"
     ]
   },
-  "Capitole": {
+  "capitole": {
     "word": "Capitole",
     "pronunciation": "kapitɔl",
     "definition": [
       "Capitol"
     ]
   },
-  "Capricorne": {
+  "capricorne": {
     "word": "Capricorne",
     "pronunciation": "kapʀikɔʀn",
     "definition": [
       "Capricorn"
     ]
   },
-  "Carpates": {
+  "carpates": {
     "word": "Carpates",
     "pronunciation": "kaʀpat",
     "definition": [
@@ -1396,182 +1396,182 @@
       "Carpathian mountains"
     ]
   },
-  "Carthage": {
+  "carthage": {
     "word": "Carthage",
     "pronunciation": "kaʀtaʒ",
     "definition": [
       "Carthage"
     ]
   },
-  "Carthaginois": {
+  "carthaginois": {
     "word": "Carthaginois",
     "pronunciation": "kaʀtaʒinwa",
     "definition": [
       "Carthaginian"
     ]
   },
-  "Cassandre": {
+  "cassandre": {
     "word": "Cassandre",
     "pronunciation": "kasɑ̃dʀ",
     "definition": [
       "Cassandra"
     ]
   },
-  "Castillan": {
+  "castillan": {
     "word": "Castillan",
     "pronunciation": "kastijɑ̃",
     "definition": [
       "Castilian"
     ]
   },
-  "Castille": {
+  "castille": {
     "word": "Castille",
     "pronunciation": "kastij",
     "definition": [
       "Castile"
     ]
   },
-  "Catalan": {
+  "catalan": {
     "word": "Catalan",
     "pronunciation": "katalɑ̃",
     "definition": [
       "Catalonian"
     ]
   },
-  "Catalogne": {
+  "catalogne": {
     "word": "Catalogne",
     "pronunciation": "katalɔnj",
     "definition": [
       "Catalonia"
     ]
   },
-  "Caton": {
+  "caton": {
     "word": "Caton",
     "pronunciation": "katɔ̃",
     "definition": [
       "Cato"
     ]
   },
-  "Caucase": {
+  "caucase": {
     "word": "Caucase",
     "pronunciation": "kokaz",
     "definition": [
       "Caucasus"
     ]
   },
-  "Caïn": {
+  "caïn": {
     "word": "Caïn",
     "pronunciation": "kajɛ̃",
     "definition": [
       "Cain"
     ]
   },
-  "Celte": {
+  "celte": {
     "word": "Celte",
     "pronunciation": "sɛlt",
     "definition": [
       "Celt"
     ]
   },
-  "Cendrillon": {
+  "cendrillon": {
     "word": "Cendrillon",
     "pronunciation": "sɑ̃dʀijɔ̃",
     "definition": [
       "Cinderella"
     ]
   },
-  "Cerbère": {
+  "cerbère": {
     "word": "Cerbère",
     "pronunciation": "sɛʀbɛʀ",
     "definition": [
       "Cerberus"
     ]
   },
-  "Ceylan": {
+  "ceylan": {
     "word": "Ceylan",
     "pronunciation": "sɛlɑ̃",
     "definition": [
       "Ceylon"
     ]
   },
-  "Ceylanais": {
+  "ceylanais": {
     "word": "Ceylanais",
     "pronunciation": "sɛlanɛ",
     "definition": [
       "Ceylonese"
     ]
   },
-  "Chaldée": {
+  "chaldée": {
     "word": "Chaldée",
     "pronunciation": "ʃalde",
     "definition": [
       "Chaldea"
     ]
   },
-  "Chaldéen": {
+  "chaldéen": {
     "word": "Chaldéen",
     "pronunciation": "ʃalde",
     "definition": [
       "Chaldean"
     ]
   },
-  "Chanaan": {
+  "chanaan": {
     "word": "Chanaan",
     "pronunciation": "ʃanaɑ̃",
     "definition": [
       "Canaan"
     ]
   },
-  "Chandeleur": {
+  "chandeleur": {
     "word": "Chandeleur",
     "pronunciation": "ʃɑ̃dəlœʀ",
     "definition": [
       "Candlemas"
     ]
   },
-  "Charlemagne": {
+  "charlemagne": {
     "word": "Charlemagne",
     "pronunciation": "ʃaʀləmanj",
     "definition": [
       "Charlemagne"
     ]
   },
-  "Charybde": {
+  "charybde": {
     "word": "Charybde",
     "pronunciation": "ʃaʀibd",
     "definition": [
       "Charybdis"
     ]
   },
-  "Chenal Lost": {
+  "chenal lost": {
     "word": "Chenal Lost",
     "pronunciation": "ʃənallɔst",
     "definition": [
       "Lost Channel"
     ]
   },
-  "Chili": {
+  "chili": {
     "word": "Chili",
     "pronunciation": "ʃili",
     "definition": [
       "Chile"
     ]
   },
-  "Chilien": {
+  "chilien": {
     "word": "Chilien",
     "pronunciation": "ʃili",
     "definition": [
       "Chilean"
     ]
   },
-  "Chine": {
+  "chine": {
     "word": "Chine",
     "pronunciation": "ʃin",
     "definition": [
       "China"
     ]
   },
-  "Chinois": {
+  "chinois": {
     "word": "Chinois",
     "pronunciation": "ʃinwa",
     "definition": [
@@ -1579,14 +1579,14 @@
       "Chinese"
     ]
   },
-  "Christ": {
+  "christ": {
     "word": "Christ",
     "pronunciation": "kʀist",
     "definition": [
       "Christ"
     ]
   },
-  "Churchill": {
+  "churchill": {
     "word": "Churchill",
     "pronunciation": "ʃyʀʃi",
     "definition": [
@@ -1594,21 +1594,21 @@
       "Churchill River"
     ]
   },
-  "Chutes Niagara": {
+  "chutes niagara": {
     "word": "Chutes Niagara",
     "pronunciation": "ʃytnjagaʀa",
     "definition": [
       "Niagara Falls"
     ]
   },
-  "Chypre": {
+  "chypre": {
     "word": "Chypre",
     "pronunciation": "ʃipʀ",
     "definition": [
       "Cyprus"
     ]
   },
-  "Chypriote": {
+  "chypriote": {
     "word": "Chypriote",
     "pronunciation": "ʃipʀjɔt",
     "definition": [
@@ -1616,21 +1616,21 @@
       "Cypriot"
     ]
   },
-  "Cicéron": {
+  "cicéron": {
     "word": "Cicéron",
     "pronunciation": "siseʀɔ̃",
     "definition": [
       "Cicero"
     ]
   },
-  "Cléopâtre": {
+  "cléopâtre": {
     "word": "Cléopâtre",
     "pronunciation": "kleɔpatʀ",
     "definition": [
       "Cleopatra"
     ]
   },
-  "Coblence": {
+  "coblence": {
     "word": "Coblence",
     "pronunciation": "kɔblɑ̃s",
     "definition": [
@@ -1638,48 +1638,48 @@
       "Koblenz"
     ]
   },
-  "Cologne": {
+  "cologne": {
     "word": "Cologne",
     "pronunciation": "kɔlɔnj",
     "definition": [
       "Cologne"
     ]
   },
-  "Colomb": {
+  "colomb": {
     "word": "Colomb",
     "pronunciation": "kɔlɔ̃",
     "definition": [
       "Columbus"
     ]
   },
-  "Colombie": {
+  "colombie": {
     "word": "Colombie",
     "pronunciation": "kɔlɔ̃bi",
     "definition": [
       "Colombia"
     ]
   },
-  "Colombie-Britannique": {
+  "colombie-britannique": {
     "word": "Colombie-Britannique",
     "definition": [
       "British Columbia"
     ]
   },
-  "Colombien": {
+  "colombien": {
     "word": "Colombien",
     "pronunciation": "kɔlɔ̃bi",
     "definition": [
       "Colombian"
     ]
   },
-  "Comines": {
+  "comines": {
     "word": "Comines",
     "pronunciation": "komin",
     "definition": [
       "Comine"
     ]
   },
-  "Congo": {
+  "congo": {
     "word": "Congo",
     "pronunciation": "kɔ̃go",
     "definition": [
@@ -1687,42 +1687,42 @@
       "Zaire"
     ]
   },
-  "Copenhague": {
+  "copenhague": {
     "word": "Copenhague",
     "pronunciation": "kopɛnag",
     "definition": [
       "Copenhagen"
     ]
   },
-  "Coran": {
+  "coran": {
     "word": "Coran",
     "pronunciation": "kɔʀɑ̃",
     "definition": [
       "Koran"
     ]
   },
-  "Cordoue": {
+  "cordoue": {
     "word": "Cordoue",
     "pronunciation": "koʀdu",
     "definition": [
       "Cordova"
     ]
   },
-  "Corinthe": {
+  "corinthe": {
     "word": "Corinthe",
     "pronunciation": "koʀɛ̃t",
     "definition": [
       "Corinth"
     ]
   },
-  "Cornouailles": {
+  "cornouailles": {
     "word": "Cornouailles",
     "pronunciation": "kɔʀnwaj",
     "definition": [
       "Cornwall"
     ]
   },
-  "Corse": {
+  "corse": {
     "word": "Corse",
     "pronunciation": "kɔʀs",
     "definition": [
@@ -1731,140 +1731,140 @@
       "Corsican"
     ]
   },
-  "Corée": {
+  "corée": {
     "word": "Corée",
     "pronunciation": "kɔʀe",
     "definition": [
       "Korea"
     ]
   },
-  "Corée du Nord": {
+  "corée du nord": {
     "word": "Corée du Nord",
     "pronunciation": "kɔʀedynɔʀ",
     "definition": [
       "North Korea"
     ]
   },
-  "Corée du Sud": {
+  "corée du sud": {
     "word": "Corée du Sud",
     "pronunciation": "kɔʀedysyd",
     "definition": [
       "South Korea"
     ]
   },
-  "Coréen": {
+  "coréen": {
     "word": "Coréen",
     "pronunciation": "kɔʀe",
     "definition": [
       "Korean"
     ]
   },
-  "Coréene": {
+  "coréene": {
     "word": "Coréene",
     "pronunciation": "kɔʀeən",
     "definition": [
       "Korean woman"
     ]
   },
-  "Costa Rica": {
+  "costa rica": {
     "word": "Costa Rica",
     "pronunciation": "kostaʀika",
     "definition": [
       "Costa Rica"
     ]
   },
-  "Costaricien": {
+  "costaricien": {
     "word": "Costaricien",
     "pronunciation": "kostaʀisi",
     "definition": [
       "Costa Rican"
     ]
   },
-  "Courtrai": {
+  "courtrai": {
     "word": "Courtrai",
     "pronunciation": "kuʀtʀɛ",
     "definition": [
       "Courtrai"
     ]
   },
-  "Cracovie": {
+  "cracovie": {
     "word": "Cracovie",
     "pronunciation": "kʀakovi",
     "definition": [
       "Cracow"
     ]
   },
-  "Crimée": {
+  "crimée": {
     "word": "Crimée",
     "pronunciation": "kʀime",
     "definition": [
       "Crimea"
     ]
   },
-  "Croate": {
+  "croate": {
     "word": "Croate",
     "pronunciation": "kʀot",
     "definition": [
       "Croat"
     ]
   },
-  "Croatie": {
+  "croatie": {
     "word": "Croatie",
     "pronunciation": "kʀoti",
     "definition": [
       "Croatia"
     ]
   },
-  "Croix du Sud": {
+  "croix du sud": {
     "word": "Croix du Sud",
     "pronunciation": "kʀwadysyd",
     "definition": [
       "Southern Cross"
     ]
   },
-  "Crète": {
+  "crète": {
     "word": "Crète",
     "pronunciation": "kʀɛt",
     "definition": [
       "Crete"
     ]
   },
-  "Cuba": {
+  "cuba": {
     "word": "Cuba",
     "pronunciation": "kyba",
     "definition": [
       "Cuba"
     ]
   },
-  "Cubain": {
+  "cubain": {
     "word": "Cubain",
     "pronunciation": "kybɛ̃",
     "definition": [
       "Cuban"
     ]
   },
-  "Cupidon": {
+  "cupidon": {
     "word": "Cupidon",
     "pronunciation": "kypidɔ̃",
     "definition": [
       "Cupid"
     ]
   },
-  "Curaçao": {
+  "curaçao": {
     "word": "Curaçao",
     "pronunciation": "kyʀasao",
     "definition": [
       "Curaçao"
     ]
   },
-  "Cyclades": {
+  "cyclades": {
     "word": "Cyclades",
     "pronunciation": "siklad",
     "definition": [
       "Cyclades"
     ]
   },
-  "Cypriote": {
+  "cypriote": {
     "word": "Cypriote",
     "pronunciation": "sipʀjɔt",
     "definition": [
@@ -1872,84 +1872,84 @@
       "Cypriot"
     ]
   },
-  "Cérès": {
+  "cérès": {
     "word": "Cérès",
     "pronunciation": "seʀɛ",
     "definition": [
       "Ceres"
     ]
   },
-  "César": {
+  "césar": {
     "word": "César",
     "pronunciation": "sezaʀ",
     "definition": [
       "Caesar"
     ]
   },
-  "Côte d'Ivoire": {
+  "côte d'ivoire": {
     "word": "Côte d'Ivoire",
     "pronunciation": "kotdivwaʀ",
     "definition": [
       "Ivory Coast"
     ]
   },
-  "Dakar": {
+  "dakar": {
     "word": "Dakar",
     "pronunciation": "dakaʀ",
     "definition": [
       "Dakar"
     ]
   },
-  "Dalmate": {
+  "dalmate": {
     "word": "Dalmate",
     "pronunciation": "dalmat",
     "definition": [
       "Dalmatian"
     ]
   },
-  "Dalmatie": {
+  "dalmatie": {
     "word": "Dalmatie",
     "pronunciation": "dalmati",
     "definition": [
       "Dalmatia"
     ]
   },
-  "Damas": {
+  "damas": {
     "word": "Damas",
     "pronunciation": "dama",
     "definition": [
       "Damascus"
     ]
   },
-  "Damoclès": {
+  "damoclès": {
     "word": "Damoclès",
     "pronunciation": "damoklɛ",
     "definition": [
       "Damocles"
     ]
   },
-  "Danemark": {
+  "danemark": {
     "word": "Danemark",
     "pronunciation": "danəmaʀk",
     "definition": [
       "Denmark"
     ]
   },
-  "Danois": {
+  "danois": {
     "word": "Danois",
     "pronunciation": "danwa",
     "definition": [
       "Dane"
     ]
   },
-  "Danube": {
+  "danube": {
     "word": "Danube",
     "pronunciation": "danyb",
     "definition": [
       "Danube"
     ]
   },
-  "Dardanelles": {
+  "dardanelles": {
     "word": "Dardanelles",
     "pronunciation": "daʀdanɛl",
     "definition": [
@@ -1957,42 +1957,42 @@
       "Hellespont"
     ]
   },
-  "Delphes": {
+  "delphes": {
     "word": "Delphes",
     "pronunciation": "dəlf",
     "definition": [
       "Delphi"
     ]
   },
-  "Deutéronome": {
+  "deutéronome": {
     "word": "Deutéronome",
     "pronunciation": "døteʀonɔm",
     "definition": [
       "Deuteronomy"
     ]
   },
-  "Diane": {
+  "diane": {
     "word": "Diane",
     "pronunciation": "djan",
     "definition": [
       "Diana"
     ]
   },
-  "Dieu": {
+  "dieu": {
     "word": "Dieu",
     "pronunciation": "djø",
     "definition": [
       "God"
     ]
   },
-  "Diogène": {
+  "diogène": {
     "word": "Diogène",
     "pronunciation": "djoʒɛn",
     "definition": [
       "Diogenes"
     ]
   },
-  "Djibouti": {
+  "djibouti": {
     "word": "Djibouti",
     "pronunciation": "dʒibuti",
     "definition": [
@@ -2000,35 +2000,35 @@
       "Jibuti"
     ]
   },
-  "Dominicain": {
+  "dominicain": {
     "word": "Dominicain",
     "pronunciation": "dominikɛ̃",
     "definition": [
       "Dominican"
     ]
   },
-  "Dominique": {
+  "dominique": {
     "word": "Dominique",
     "pronunciation": "dominik",
     "definition": [
       "Dominica"
     ]
   },
-  "Douvres": {
+  "douvres": {
     "word": "Douvres",
     "pronunciation": "duvʀ",
     "definition": [
       "Dover"
     ]
   },
-  "Dunkerque": {
+  "dunkerque": {
     "word": "Dunkerque",
     "pronunciation": "dykɛʀk",
     "definition": [
       "Dunkirk"
     ]
   },
-  "Ecossais": {
+  "ecossais": {
     "word": "Ecossais",
     "pronunciation": "əkosɛ",
     "definition": [
@@ -2036,56 +2036,56 @@
       "Scotsman"
     ]
   },
-  "Ecossaise": {
+  "ecossaise": {
     "word": "Ecossaise",
     "pronunciation": "əkosɛz",
     "definition": [
       "Scotswoman"
     ]
   },
-  "Ecosse": {
+  "ecosse": {
     "word": "Ecosse",
     "pronunciation": "əkos",
     "definition": [
       "Scotland"
     ]
   },
-  "Ecriture sainte": {
+  "ecriture sainte": {
     "word": "Ecriture sainte",
     "pronunciation": "əkʀityʀsɛ̃t",
     "definition": [
       "Bible"
     ]
   },
-  "Eden": {
+  "eden": {
     "word": "Eden",
     "pronunciation": "ədɛn",
     "definition": [
       "Eden"
     ]
   },
-  "Edimbourg": {
+  "edimbourg": {
     "word": "Edimbourg",
     "pronunciation": "ədɛ̃buʀ",
     "definition": [
       "Edinburgh"
     ]
   },
-  "Egypte": {
+  "egypte": {
     "word": "Egypte",
     "pronunciation": "ɛʒipt",
     "definition": [
       "Egypt"
     ]
   },
-  "Egyptien": {
+  "egyptien": {
     "word": "Egyptien",
     "pronunciation": "ɛʒipsi",
     "definition": [
       "Egyptian"
     ]
   },
-  "Elbe": {
+  "elbe": {
     "word": "Elbe",
     "pronunciation": "əlb",
     "definition": [
@@ -2093,28 +2093,28 @@
       "Elba"
     ]
   },
-  "Empire romain": {
+  "empire romain": {
     "word": "Empire romain",
     "pronunciation": "ɑ̃piʀʀomɛ̃",
     "definition": [
       "Roman Empire"
     ]
   },
-  "Enée": {
+  "enée": {
     "word": "Enée",
     "pronunciation": "əne",
     "definition": [
       "Aeneas"
     ]
   },
-  "Eole": {
+  "eole": {
     "word": "Eole",
     "pronunciation": "ɔl",
     "definition": [
       "Aeolus"
     ]
   },
-  "Epiphanie": {
+  "epiphanie": {
     "word": "Epiphanie",
     "pronunciation": "əpifani",
     "definition": [
@@ -2122,70 +2122,70 @@
       "Twelfth-night"
     ]
   },
-  "Erythrée": {
+  "erythrée": {
     "word": "Erythrée",
     "pronunciation": "əʀitʀe",
     "definition": [
       "Eritrea"
     ]
   },
-  "Escaut": {
+  "escaut": {
     "word": "Escaut",
     "pronunciation": "ɛsko",
     "definition": [
       "Scheldt"
     ]
   },
-  "Espagne": {
+  "espagne": {
     "word": "Espagne",
     "pronunciation": "ɛspanj",
     "definition": [
       "Spain"
     ]
   },
-  "Espagnol": {
+  "espagnol": {
     "word": "Espagnol",
     "pronunciation": "ɛspanjɔl",
     "definition": [
       "Spaniard"
     ]
   },
-  "Espagnole": {
+  "espagnole": {
     "word": "Espagnole",
     "pronunciation": "ɛspanjɔl",
     "definition": [
       "Spanish woman"
     ]
   },
-  "Estonie": {
+  "estonie": {
     "word": "Estonie",
     "pronunciation": "ɛstoni",
     "definition": [
       "Estonia"
     ]
   },
-  "Estonien": {
+  "estonien": {
     "word": "Estonien",
     "pronunciation": "ɛstoni",
     "definition": [
       "Estonian"
     ]
   },
-  "Estonienne": {
+  "estonienne": {
     "word": "Estonienne",
     "pronunciation": "ɛstonjɛn",
     "definition": [
       "Estonian woman"
     ]
   },
-  "Etats-Unis": {
+  "etats-unis": {
     "word": "Etats-Unis",
     "definition": [
       "United States of America",
       "USA"
     ]
   },
-  "Ethiopie": {
+  "ethiopie": {
     "word": "Ethiopie",
     "pronunciation": "ɛtjopi",
     "definition": [
@@ -2193,14 +2193,14 @@
       "Ethiopia"
     ]
   },
-  "Ethiopien": {
+  "ethiopien": {
     "word": "Ethiopien",
     "pronunciation": "ɛtjopi",
     "definition": [
       "Ethiopian"
     ]
   },
-  "Etrusque": {
+  "etrusque": {
     "word": "Etrusque",
     "pronunciation": "ətʀysk",
     "definition": [
@@ -2208,34 +2208,34 @@
       "Etruscan"
     ]
   },
-  "Euphrate": {
+  "euphrate": {
     "word": "Euphrate",
     "pronunciation": "øfʀat",
     "definition": [
       "Euphrates"
     ]
   },
-  "Europe": {
+  "europe": {
     "word": "Europe",
     "pronunciation": "øʀɔp",
     "definition": [
       "Europe"
     ]
   },
-  "Européen": {
+  "européen": {
     "word": "Européen",
     "pronunciation": "øʀɔpe",
     "definition": [
       "European"
     ]
   },
-  "Extrême-Orient": {
+  "extrême-orient": {
     "word": "Extrême-Orient",
     "definition": [
       "Far East"
     ]
   },
-  "Finlandaise": {
+  "finlandaise": {
     "word": "Finlandaise",
     "pronunciation": "filɑ̃dɛz",
     "definition": [
@@ -2243,21 +2243,21 @@
       "Finnish woman"
     ]
   },
-  "Finlande": {
+  "finlande": {
     "word": "Finlande",
     "pronunciation": "filɑ̃d",
     "definition": [
       "Finland"
     ]
   },
-  "Finnois": {
+  "finnois": {
     "word": "Finnois",
     "pronunciation": "finwa",
     "definition": [
       "Finn"
     ]
   },
-  "Finnoise": {
+  "finnoise": {
     "word": "Finnoise",
     "pronunciation": "finwaz",
     "definition": [
@@ -2265,35 +2265,35 @@
       "Finnish woman"
     ]
   },
-  "Flamand": {
+  "flamand": {
     "word": "Flamand",
     "pronunciation": "flamɑ̃",
     "definition": [
       "Flemming"
     ]
   },
-  "Flandre": {
+  "flandre": {
     "word": "Flandre",
     "pronunciation": "flɑ̃dʀ",
     "definition": [
       "Flanders"
     ]
   },
-  "Flandre Zélandaise": {
+  "flandre zélandaise": {
     "word": "Flandre Zélandaise",
     "pronunciation": "flɑ̃dʀzelɑ̃dɛz",
     "definition": [
       "Dutch Flanders"
     ]
   },
-  "Flessingue": {
+  "flessingue": {
     "word": "Flessingue",
     "pronunciation": "flesɛ̃g",
     "definition": [
       "Flushing"
     ]
   },
-  "Fleuve Churchill": {
+  "fleuve churchill": {
     "word": "Fleuve Churchill",
     "pronunciation": "flœvʃyʀʃi",
     "definition": [
@@ -2301,7 +2301,7 @@
       "Churchill River"
     ]
   },
-  "Fleuve Columbia": {
+  "fleuve columbia": {
     "word": "Fleuve Columbia",
     "pronunciation": "flœvkɔlybija",
     "definition": [
@@ -2309,7 +2309,7 @@
       "Columbia River"
     ]
   },
-  "Fleuve Fraser": {
+  "fleuve fraser": {
     "word": "Fleuve Fraser",
     "pronunciation": "flœvfʀaze",
     "definition": [
@@ -2317,55 +2317,55 @@
       "Fraser River"
     ]
   },
-  "Floride": {
+  "floride": {
     "word": "Floride",
     "pronunciation": "floʀid",
     "definition": [
       "Florida"
     ]
   },
-  "Fortune": {
+  "fortune": {
     "word": "Fortune",
     "pronunciation": "foʀtyn",
     "definition": [
       "Fortune"
     ]
   },
-  "Forêt-Noire": {
+  "forêt-noire": {
     "word": "Forêt-Noire",
     "definition": [
       "Black Forest"
     ]
   },
-  "France": {
+  "france": {
     "word": "France",
     "pronunciation": "fʀɑ̃s",
     "definition": [
       "France"
     ]
   },
-  "Francfort": {
+  "francfort": {
     "word": "Francfort",
     "pronunciation": "fʀɑ̃kfɔʀ",
     "definition": [
       "Frankfort"
     ]
   },
-  "Français": {
+  "français": {
     "word": "Français",
     "pronunciation": "fʀɑ̃sɛ",
     "definition": [
       "Frenchman"
     ]
   },
-  "Française": {
+  "française": {
     "word": "Française",
     "pronunciation": "fʀɑ̃sɛz",
     "definition": [
       "Frenchwoman"
     ]
   },
-  "Fraser": {
+  "fraser": {
     "word": "Fraser",
     "pronunciation": "fʀaze",
     "definition": [
@@ -2373,98 +2373,98 @@
       "Fraser River"
     ]
   },
-  "Frise": {
+  "frise": {
     "word": "Frise",
     "pronunciation": "fʀiz",
     "definition": [
       "Friesland"
     ]
   },
-  "Frison": {
+  "frison": {
     "word": "Frison",
     "pronunciation": "fʀizɔ̃",
     "definition": [
       "Frisian"
     ]
   },
-  "Gabon": {
+  "gabon": {
     "word": "Gabon",
     "pronunciation": "gabɔ̃",
     "definition": [
       "Gabon"
     ]
   },
-  "Galice": {
+  "galice": {
     "word": "Galice",
     "pronunciation": "galis",
     "definition": [
       "Galicia"
     ]
   },
-  "Galicie": {
+  "galicie": {
     "word": "Galicie",
     "pronunciation": "galisi",
     "definition": [
       "Galicia"
     ]
   },
-  "Galles": {
+  "galles": {
     "word": "Galles",
     "pronunciation": "gal",
     "definition": [
       "Wales"
     ]
   },
-  "Gallois": {
+  "gallois": {
     "word": "Gallois",
     "pronunciation": "galwa",
     "definition": [
       "Welshman"
     ]
   },
-  "Gand": {
+  "gand": {
     "word": "Gand",
     "pronunciation": "gɑ̃",
     "definition": [
       "Ghent"
     ]
   },
-  "Gange": {
+  "gange": {
     "word": "Gange",
     "pronunciation": "gɑ̃ʒ",
     "definition": [
       "Ganges"
     ]
   },
-  "Gaule": {
+  "gaule": {
     "word": "Gaule",
     "pronunciation": "gol",
     "definition": [
       "Gaul"
     ]
   },
-  "Gaulois": {
+  "gaulois": {
     "word": "Gaulois",
     "pronunciation": "golwa",
     "definition": [
       "Gaul"
     ]
   },
-  "Genèse": {
+  "genèse": {
     "word": "Genèse",
     "pronunciation": "ʒənɛz",
     "definition": [
       "Genesis"
     ]
   },
-  "Genève": {
+  "genève": {
     "word": "Genève",
     "pronunciation": "ʒənɛv",
     "definition": [
       "Geneva"
     ]
   },
-  "Germain": {
+  "germain": {
     "word": "Germain",
     "pronunciation": "ʒɛʀmɛ̃",
     "definition": [
@@ -2472,35 +2472,35 @@
       "Teuton"
     ]
   },
-  "Ghana": {
+  "ghana": {
     "word": "Ghana",
     "pronunciation": "gana",
     "definition": [
       "Ghana"
     ]
   },
-  "Ghanéen": {
+  "ghanéen": {
     "word": "Ghanéen",
     "pronunciation": "gane",
     "definition": [
       "Ghanaian"
     ]
   },
-  "Golfe d'Aden": {
+  "golfe d'aden": {
     "word": "Golfe d'Aden",
     "pronunciation": "gɔlfdadɛn",
     "definition": [
       "Gulf of Aden"
     ]
   },
-  "Goth": {
+  "goth": {
     "word": "Goth",
     "pronunciation": "got",
     "definition": [
       "Goth"
     ]
   },
-  "Graal": {
+  "graal": {
     "word": "Graal",
     "pronunciation": "ɡʀal",
     "definition": [
@@ -2508,111 +2508,111 @@
       "Holy Grail"
     ]
   },
-  "Grammont": {
+  "grammont": {
     "word": "Grammont",
     "pronunciation": "gʀamɔ̃",
     "definition": [
       "Grammont"
     ]
   },
-  "Grand Lac Salé": {
+  "grand lac salé": {
     "word": "Grand Lac Salé",
     "pronunciation": "gʀɑ̃laksale",
     "definition": [
       "Great Salt Lake"
     ]
   },
-  "Grand-Sault": {
+  "grand-sault": {
     "word": "Grand-Sault",
     "definition": [
       "Grand Falls"
     ]
   },
-  "Grande-Bretagne": {
+  "grande-bretagne": {
     "word": "Grande-Bretagne",
     "pronunciation": "gʀɑ̃dbʀətaɲ",
     "definition": [
       "Great Britain"
     ]
   },
-  "Grec": {
+  "grec": {
     "word": "Grec",
     "pronunciation": "gʀɛk",
     "definition": [
       "Greek"
     ]
   },
-  "Grecque": {
+  "grecque": {
     "word": "Grecque",
     "pronunciation": "gʀɛk",
     "definition": [
       "Greek woman"
     ]
   },
-  "Grenade": {
+  "grenade": {
     "word": "Grenade",
     "pronunciation": "gʀənad",
     "definition": [
       "Grenada"
     ]
   },
-  "Groenland": {
+  "groenland": {
     "word": "Groenland",
     "pronunciation": "gʀœɑ̃lɑ̃",
     "definition": [
       "Greenland"
     ]
   },
-  "Groenlandais": {
+  "groenlandais": {
     "word": "Groenlandais",
     "pronunciation": "gʀœɑ̃lɑ̃dɛ",
     "definition": [
       "Greenlander"
     ]
   },
-  "Groënland": {
+  "groënland": {
     "word": "Groënland",
     "pronunciation": "gʀolɑ̃",
     "definition": [
       "Greenland"
     ]
   },
-  "Groënlandais": {
+  "groënlandais": {
     "word": "Groënlandais",
     "pronunciation": "gʀolɑ̃dɛ",
     "definition": [
       "Greenlander"
     ]
   },
-  "Grèce": {
+  "grèce": {
     "word": "Grèce",
     "pronunciation": "gʀɛs",
     "definition": [
       "Greece"
     ]
   },
-  "Guadeloupe": {
+  "guadeloupe": {
     "word": "Guadeloupe",
     "pronunciation": "gadəlup",
     "definition": [
       "Guadeloupe"
     ]
   },
-  "Guatemala": {
+  "guatemala": {
     "word": "Guatemala",
     "pronunciation": "gatəmala",
     "definition": [
       "Guatemala"
     ]
   },
-  "Guatémaltèque": {
+  "guatémaltèque": {
     "word": "Guatémaltèque",
     "pronunciation": "gatemaltɛk",
     "definition": [
       "Guatemalan"
     ]
   },
-  "Gueldre": {
+  "gueldre": {
     "word": "Gueldre",
     "pronunciation": "gɛldʀ",
     "definition": [
@@ -2620,118 +2620,118 @@
       "Guelders"
     ]
   },
-  "Guinée": {
+  "guinée": {
     "word": "Guinée",
     "pronunciation": "gine",
     "definition": [
       "Guinea"
     ]
   },
-  "Guinée Equatoriale": {
+  "guinée equatoriale": {
     "word": "Guinée Equatoriale",
     "pronunciation": "gineəkatɔʀjal",
     "definition": [
       "Equatorial Guinea"
     ]
   },
-  "Guinée-Bissau": {
+  "guinée-bissau": {
     "word": "Guinée-Bissau",
     "definition": [
       "Guinea Bissau"
     ]
   },
-  "Guyenne": {
+  "guyenne": {
     "word": "Guyenne",
     "pronunciation": "gijɛn",
     "definition": [
       "Aquitaine"
     ]
   },
-  "Gédéon": {
+  "gédéon": {
     "word": "Gédéon",
     "pronunciation": "ʒedeɔ̃",
     "definition": [
       "Gideon"
     ]
   },
-  "Géorgie": {
+  "géorgie": {
     "word": "Géorgie",
     "pronunciation": "ʒeɔʀʒi",
     "definition": [
       "Georgia"
     ]
   },
-  "Géorgien": {
+  "géorgien": {
     "word": "Géorgien",
     "pronunciation": "ʒeɔʀʒi",
     "definition": [
       "Georgian"
     ]
   },
-  "Gênes": {
+  "gênes": {
     "word": "Gênes",
     "pronunciation": "ʒɛn",
     "definition": [
       "Genoa"
     ]
   },
-  "Hambourg": {
+  "hambourg": {
     "word": "Hambourg",
     "pronunciation": "ɑ̃buʀ",
     "definition": [
       "Hamburg"
     ]
   },
-  "Hannibal": {
+  "hannibal": {
     "word": "Hannibal",
     "pronunciation": "anibal",
     "definition": [
       "Hannibal"
     ]
   },
-  "Hanovre": {
+  "hanovre": {
     "word": "Hanovre",
     "pronunciation": "anovʀ",
     "definition": [
       "Hanover"
     ]
   },
-  "Hawaii": {
+  "hawaii": {
     "word": "Hawaii",
     "pronunciation": "owɛ",
     "definition": [
       "Hawaii"
     ]
   },
-  "Haïti": {
+  "haïti": {
     "word": "Haïti",
     "pronunciation": "aiti",
     "definition": [
       "Haiti"
     ]
   },
-  "Hellade": {
+  "hellade": {
     "word": "Hellade",
     "pronunciation": "ɛlad",
     "definition": [
       "Hellas"
     ]
   },
-  "Helvète": {
+  "helvète": {
     "word": "Helvète",
     "pronunciation": "ɛlvɛt",
     "definition": [
       "Helvetian"
     ]
   },
-  "Helvétie": {
+  "helvétie": {
     "word": "Helvétie",
     "pronunciation": "ɛlvesi",
     "definition": [
       "Helvetia"
     ]
   },
-  "Hercule": {
+  "hercule": {
     "word": "Hercule",
     "pronunciation": "ɛʀkyl",
     "definition": [
@@ -2739,28 +2739,28 @@
       "Hercules"
     ]
   },
-  "Hermès": {
+  "hermès": {
     "word": "Hermès",
     "pronunciation": "ɛʀmɛ",
     "definition": [
       "Hermes"
     ]
   },
-  "Himalaya": {
+  "himalaya": {
     "word": "Himalaya",
     "pronunciation": "imalɛja",
     "definition": [
       "Himalayas"
     ]
   },
-  "Hippocrate": {
+  "hippocrate": {
     "word": "Hippocrate",
     "pronunciation": "ipokʀat",
     "definition": [
       "Hippocrates"
     ]
   },
-  "Hollandais": {
+  "hollandais": {
     "word": "Hollandais",
     "pronunciation": "ɔlɑ̃dɛ",
     "definition": [
@@ -2768,70 +2768,70 @@
       "Hollander"
     ]
   },
-  "Hollande": {
+  "hollande": {
     "word": "Hollande",
     "pronunciation": "ɔlɑ̃d",
     "definition": [
       "Holland"
     ]
   },
-  "Hollande septentrionale": {
+  "hollande septentrionale": {
     "word": "Hollande septentrionale",
     "pronunciation": "ɔlɑ̃dsɛptɑ̃tʀjonal",
     "definition": [
       "North Holland"
     ]
   },
-  "Homère": {
+  "homère": {
     "word": "Homère",
     "pronunciation": "omɛʀ",
     "definition": [
       "Homer"
     ]
   },
-  "Honduras": {
+  "honduras": {
     "word": "Honduras",
     "pronunciation": "ɔ̃dyʀa",
     "definition": [
       "Honduras"
     ]
   },
-  "Hondurien": {
+  "hondurien": {
     "word": "Hondurien",
     "pronunciation": "ɔ̃dyʀi",
     "definition": [
       "Honduran"
     ]
   },
-  "Hondurienne": {
+  "hondurienne": {
     "word": "Hondurienne",
     "pronunciation": "ɔ̃dyʀjɛn",
     "definition": [
       "Honduran woman"
     ]
   },
-  "Hong Kong": {
+  "hong kong": {
     "word": "Hong Kong",
     "pronunciation": "ɔ̃ŋkɔ̃ŋ",
     "definition": [
       "Hongkong"
     ]
   },
-  "Hongrie": {
+  "hongrie": {
     "word": "Hongrie",
     "pronunciation": "ɔ̃gʀi",
     "definition": [
       "Hungary"
     ]
   },
-  "Hongrois": {
+  "hongrois": {
     "word": "Hongrois",
     "pronunciation": "ɔ̃gʀwa",
     "definition": [
       "Hungarian"
     ]
   },
-  "Hongroise": {
+  "hongroise": {
     "word": "Hongroise",
     "pronunciation": "ɔ̃gʀwaz",
     "definition": [
@@ -2839,7 +2839,7 @@
       "Hungarian woman"
     ]
   },
-  "Hébreu": {
+  "hébreu": {
     "word": "Hébreu",
     "pronunciation": "ebʀø",
     "definition": [
@@ -2847,7 +2847,7 @@
       "Jew"
     ]
   },
-  "Hébrides": {
+  "hébrides": {
     "word": "Hébrides",
     "pronunciation": "ebʀid",
     "definition": [
@@ -2855,115 +2855,115 @@
       "Western Islands"
     ]
   },
-  "Hélène": {
+  "hélène": {
     "word": "Hélène",
     "pronunciation": "elɛn",
     "definition": [
       "Helen"
     ]
   },
-  "Ile Kénosha": {
+  "ile kénosha": {
     "word": "Ile Kénosha",
     "pronunciation": "ilkenoza",
     "definition": [
       "Kenosha Island"
     ]
   },
-  "Ile Remprouix": {
+  "ile remprouix": {
     "word": "Ile Remprouix",
     "pronunciation": "ilʀɑ̃pʀwi",
     "definition": [
       "Remprouix Island"
     ]
   },
-  "Ile d'Anticosti": {
+  "ile d'anticosti": {
     "word": "Ile d'Anticosti",
     "pronunciation": "ildɑ̃tikosti",
     "definition": [
       "Anticosti Island"
     ]
   },
-  "Ile d'Ellesmere": {
+  "ile d'ellesmere": {
     "word": "Ile d'Ellesmere",
     "pronunciation": "ildɛlsməʀ",
     "definition": [
       "Ellesmere Island"
     ]
   },
-  "Ile de Baffin": {
+  "ile de baffin": {
     "word": "Ile de Baffin",
     "pronunciation": "ildəbafɛ̃",
     "definition": [
       "Baffin Island"
     ]
   },
-  "Ile de Sable": {
+  "ile de sable": {
     "word": "Ile de Sable",
     "pronunciation": "ildəsabl",
     "definition": [
       "Sable Island"
     ]
   },
-  "Ile de Vancouver": {
+  "ile de vancouver": {
     "word": "Ile de Vancouver",
     "pronunciation": "ildəvɑ̃kuve",
     "definition": [
       "Vancouver Island"
     ]
   },
-  "Ile du Cap-Breton": {
+  "ile du cap-breton": {
     "word": "Ile du Cap-Breton",
     "definition": [
       "Cape Breton Island"
     ]
   },
-  "Ile du Diable": {
+  "ile du diable": {
     "word": "Ile du Diable",
     "pronunciation": "ildydjabl",
     "definition": [
       "Devil's Island"
     ]
   },
-  "Ile-du-Prince-Edouard": {
+  "ile-du-prince-edouard": {
     "word": "Ile-du-Prince-Edouard",
     "definition": [
       "Prince Edward Island"
     ]
   },
-  "Iles de la Reine-Charlotte": {
+  "iles de la reine-charlotte": {
     "word": "Iles de la Reine-Charlotte",
     "definition": [
       "Queen Charlotte Islands"
     ]
   },
-  "Iles de la Reine-Elisabeth": {
+  "iles de la reine-elisabeth": {
     "word": "Iles de la Reine-Elisabeth",
     "definition": [
       "Queen Elizabeth Islands"
     ]
   },
-  "Iles normandes": {
+  "iles normandes": {
     "word": "Iles normandes",
     "pronunciation": "ilnɔʀmɑ̃d",
     "definition": [
       "Channel Islands"
     ]
   },
-  "Iliade": {
+  "iliade": {
     "word": "Iliade",
     "pronunciation": "iljad",
     "definition": [
       "Iliad"
     ]
   },
-  "Inde": {
+  "inde": {
     "word": "Inde",
     "pronunciation": "ɛ̃d",
     "definition": [
       "India"
     ]
   },
-  "Indien": {
+  "indien": {
     "word": "Indien",
     "pronunciation": "ɛ̃di",
     "definition": [
@@ -2971,7 +2971,7 @@
       "American Indian"
     ]
   },
-  "Indienne": {
+  "indienne": {
     "word": "Indienne",
     "pronunciation": "ɛ̃djɛn",
     "definition": [
@@ -2979,42 +2979,42 @@
       "Indian woman"
     ]
   },
-  "Indochine": {
+  "indochine": {
     "word": "Indochine",
     "pronunciation": "ɛ̃doʃin",
     "definition": [
       "Indo-China"
     ]
   },
-  "Indonésie": {
+  "indonésie": {
     "word": "Indonésie",
     "pronunciation": "ɛ̃donezi",
     "definition": [
       "Indonesia"
     ]
   },
-  "Indonésien": {
+  "indonésien": {
     "word": "Indonésien",
     "pronunciation": "ɛ̃donezi",
     "definition": [
       "Indonesian"
     ]
   },
-  "Indonésienne": {
+  "indonésienne": {
     "word": "Indonésienne",
     "pronunciation": "ɛ̃donezjɛn",
     "definition": [
       "Indonesian woman"
     ]
   },
-  "Irak": {
+  "irak": {
     "word": "Irak",
     "pronunciation": "iʀak",
     "definition": [
       "Iraq"
     ]
   },
-  "Irakien": {
+  "irakien": {
     "word": "Irakien",
     "pronunciation": "iʀaki",
     "definition": [
@@ -3022,7 +3022,7 @@
       "Iraquian"
     ]
   },
-  "Iran": {
+  "iran": {
     "word": "Iran",
     "pronunciation": "iʀɑ̃",
     "definition": [
@@ -3030,7 +3030,7 @@
       "Persia"
     ]
   },
-  "Iranien": {
+  "iranien": {
     "word": "Iranien",
     "pronunciation": "iʀani",
     "definition": [
@@ -3038,7 +3038,7 @@
       "Persian"
     ]
   },
-  "Iranienne": {
+  "iranienne": {
     "word": "Iranienne",
     "pronunciation": "iʀanjɛn",
     "definition": [
@@ -3046,189 +3046,189 @@
       "Persian woman"
     ]
   },
-  "Irlandais": {
+  "irlandais": {
     "word": "Irlandais",
     "pronunciation": "iʀlɑ̃dɛ",
     "definition": [
       "Irishman"
     ]
   },
-  "Irlandaise": {
+  "irlandaise": {
     "word": "Irlandaise",
     "pronunciation": "iʀlɑ̃dɛz",
     "definition": [
       "Iriswoman"
     ]
   },
-  "Irlande": {
+  "irlande": {
     "word": "Irlande",
     "pronunciation": "iʀlɑ̃d",
     "definition": [
       "Ireland"
     ]
   },
-  "Irlande du Nord": {
+  "irlande du nord": {
     "word": "Irlande du Nord",
     "pronunciation": "iʀlɑ̃ddynɔʀ",
     "definition": [
       "Northern Ireland"
     ]
   },
-  "Islandais": {
+  "islandais": {
     "word": "Islandais",
     "pronunciation": "islɑ̃dɛ",
     "definition": [
       "Icelander"
     ]
   },
-  "Islande": {
+  "islande": {
     "word": "Islande",
     "pronunciation": "islɑ̃d",
     "definition": [
       "Iceland"
     ]
   },
-  "Israël": {
+  "israël": {
     "word": "Israël",
     "pronunciation": "isʀal",
     "definition": [
       "Israel"
     ]
   },
-  "Italie": {
+  "italie": {
     "word": "Italie",
     "pronunciation": "itali",
     "definition": [
       "Italy"
     ]
   },
-  "Italien": {
+  "italien": {
     "word": "Italien",
     "pronunciation": "itali",
     "definition": [
       "Italian"
     ]
   },
-  "Italienne": {
+  "italienne": {
     "word": "Italienne",
     "pronunciation": "italjɛn",
     "definition": [
       "Italian woman"
     ]
   },
-  "Jacob": {
+  "jacob": {
     "word": "Jacob",
     "pronunciation": "ʒakɔb",
     "definition": [
       "Jacob"
     ]
   },
-  "Jacques": {
+  "jacques": {
     "word": "Jacques",
     "pronunciation": "ʒak",
     "definition": [
       "Jacob"
     ]
   },
-  "Jamaïque": {
+  "jamaïque": {
     "word": "Jamaïque",
     "pronunciation": "ʒamaik",
     "definition": [
       "Jamaica"
     ]
   },
-  "Japon": {
+  "japon": {
     "word": "Japon",
     "pronunciation": "ʒapɔ̃",
     "definition": [
       "Japan"
     ]
   },
-  "Japonais": {
+  "japonais": {
     "word": "Japonais",
     "pronunciation": "ʒapɔnɛ",
     "definition": [
       "Japanese"
     ]
   },
-  "Japonaise": {
+  "japonaise": {
     "word": "Japonaise",
     "pronunciation": "ʒapɔnɛz",
     "definition": [
       "Japanese woman"
     ]
   },
-  "Java": {
+  "java": {
     "word": "Java",
     "pronunciation": "ʒava",
     "definition": [
       "Java"
     ]
   },
-  "Javanais": {
+  "javanais": {
     "word": "Javanais",
     "pronunciation": "ʒavanɛ",
     "definition": [
       "Javanese"
     ]
   },
-  "Javanaise": {
+  "javanaise": {
     "word": "Javanaise",
     "pronunciation": "ʒavanɛz",
     "definition": [
       "Javanese woman"
     ]
   },
-  "Jordanie": {
+  "jordanie": {
     "word": "Jordanie",
     "pronunciation": "ʒɔʀdani",
     "definition": [
       "Jordan"
     ]
   },
-  "Jordanien": {
+  "jordanien": {
     "word": "Jordanien",
     "pronunciation": "ʒɔʀdani",
     "definition": [
       "Jordanian"
     ]
   },
-  "Joseph": {
+  "joseph": {
     "word": "Joseph",
     "pronunciation": "ʒozə",
     "definition": [
       "Joseph"
     ]
   },
-  "Josué": {
+  "josué": {
     "word": "Josué",
     "pronunciation": "ʒosye",
     "definition": [
       "Joshua"
     ]
   },
-  "Jourdain": {
+  "jourdain": {
     "word": "Jourdain",
     "pronunciation": "ʒuʀdɛ̃",
     "definition": [
       "Jordan"
     ]
   },
-  "Juif": {
+  "juif": {
     "word": "Juif",
     "pronunciation": "ʒɥif",
     "definition": [
       "Jew"
     ]
   },
-  "Junon": {
+  "junon": {
     "word": "Junon",
     "pronunciation": "ʒynɔ̃",
     "definition": [
       "Juno"
     ]
   },
-  "Jupiter": {
+  "jupiter": {
     "word": "Jupiter",
     "pronunciation": "ʒypite",
     "definition": [
@@ -3236,105 +3236,105 @@
       "Jove"
     ]
   },
-  "Jéricho": {
+  "jéricho": {
     "word": "Jéricho",
     "pronunciation": "ʒeʀiʃo",
     "definition": [
       "Jericho"
     ]
   },
-  "Jérusalem": {
+  "jérusalem": {
     "word": "Jérusalem",
     "pronunciation": "ʒeʀyzalɛm",
     "definition": [
       "Jerusalem"
     ]
   },
-  "Jésus-Christ": {
+  "jésus-christ": {
     "word": "Jésus-Christ",
     "pronunciation": "ʒezykʀi(st)",
     "definition": [
       "Jesus Christ"
     ]
   },
-  "Kenya": {
+  "kenya": {
     "word": "Kenya",
     "pronunciation": "kənia",
     "definition": [
       "Kenya"
     ]
   },
-  "Kenyan": {
+  "kenyan": {
     "word": "Kenyan",
     "pronunciation": "kəniɑ̃",
     "definition": [
       "Kenyan"
     ]
   },
-  "Khmer": {
+  "khmer": {
     "word": "Khmer",
     "pronunciation": "kme",
     "definition": [
       "Cambodian"
     ]
   },
-  "Kremlin": {
+  "kremlin": {
     "word": "Kremlin",
     "pronunciation": "kʀɑ̃mlɛ̃",
     "definition": [
       "Kremlin"
     ]
   },
-  "Kurde": {
+  "kurde": {
     "word": "Kurde",
     "pronunciation": "kyʀd",
     "definition": [
       "Kurd"
     ]
   },
-  "Kurdistan": {
+  "kurdistan": {
     "word": "Kurdistan",
     "pronunciation": "kyʀdistɑ̃",
     "definition": [
       "Kurdistan"
     ]
   },
-  "La Havane": {
+  "la havane": {
     "word": "La Havane",
     "pronunciation": "laavan",
     "definition": [
       "Havana"
     ]
   },
-  "La Haye": {
+  "la haye": {
     "word": "La Haye",
     "pronunciation": "laɛj",
     "definition": [
       "The Hague"
     ]
   },
-  "Lac Léman": {
+  "lac léman": {
     "word": "Lac Léman",
     "pronunciation": "laklemɑ̃",
     "definition": [
       "Lake Geneva"
     ]
   },
-  "Laos": {
+  "laos": {
     "word": "Laos",
     "pronunciation": "lao",
     "definition": [
       "Laos"
     ]
   },
-  "Laotien": {
+  "laotien": {
     "word": "Laotien",
     "pronunciation": "laɔti",
     "definition": [
       "Laotian"
     ]
   },
-  "Lapon": {
+  "lapon": {
     "word": "Lapon",
     "pronunciation": "lapɔ̃",
     "definition": [
@@ -3342,14 +3342,14 @@
       "Lapp"
     ]
   },
-  "Laponie": {
+  "laponie": {
     "word": "Laponie",
     "pronunciation": "laponi",
     "definition": [
       "Lapland"
     ]
   },
-  "Laponne": {
+  "laponne": {
     "word": "Laponne",
     "pronunciation": "lapɔn",
     "definition": [
@@ -3357,21 +3357,21 @@
       "Lapponian woman"
     ]
   },
-  "Laurentides": {
+  "laurentides": {
     "word": "Laurentides",
     "pronunciation": "loʀɑ̃tid",
     "definition": [
       "Laurentian Mountains"
     ]
   },
-  "Le Caire": {
+  "le caire": {
     "word": "Le Caire",
     "pronunciation": "ləkɛʀ",
     "definition": [
       "Cairo"
     ]
   },
-  "Letton": {
+  "letton": {
     "word": "Letton",
     "pronunciation": "lɛtɔ̃",
     "definition": [
@@ -3379,147 +3379,147 @@
       "Lett"
     ]
   },
-  "Lettonie": {
+  "lettonie": {
     "word": "Lettonie",
     "pronunciation": "lɛtoni",
     "definition": [
       "Latvia"
     ]
   },
-  "Lettonne": {
+  "lettonne": {
     "word": "Lettonne",
     "pronunciation": "lɛtɔn",
     "definition": [
       "Latvian woman"
     ]
   },
-  "Leyde": {
+  "leyde": {
     "word": "Leyde",
     "pronunciation": "lɛd",
     "definition": [
       "Leyden"
     ]
   },
-  "Liban": {
+  "liban": {
     "word": "Liban",
     "pronunciation": "libɑ̃",
     "definition": [
       "Lebanon"
     ]
   },
-  "Libanais": {
+  "libanais": {
     "word": "Libanais",
     "pronunciation": "libanɛ",
     "definition": [
       "Lebanese"
     ]
   },
-  "Libye": {
+  "libye": {
     "word": "Libye",
     "pronunciation": "libi",
     "definition": [
       "Libya"
     ]
   },
-  "Libyen": {
+  "libyen": {
     "word": "Libyen",
     "pronunciation": "libi",
     "definition": [
       "Libyan"
     ]
   },
-  "Libéria": {
+  "libéria": {
     "word": "Libéria",
     "pronunciation": "libeʀja",
     "definition": [
       "Liberia"
     ]
   },
-  "Libérien": {
+  "libérien": {
     "word": "Libérien",
     "pronunciation": "libeʀi",
     "definition": [
       "Liberian"
     ]
   },
-  "Lierre": {
+  "lierre": {
     "word": "Lierre",
     "pronunciation": "ljɛʀ",
     "definition": [
       "Lyra"
     ]
   },
-  "Lisbonne": {
+  "lisbonne": {
     "word": "Lisbonne",
     "pronunciation": "lisbɔn",
     "definition": [
       "Lisbon"
     ]
   },
-  "Lituanie": {
+  "lituanie": {
     "word": "Lituanie",
     "pronunciation": "lityani",
     "definition": [
       "Lithuania"
     ]
   },
-  "Lituanien": {
+  "lituanien": {
     "word": "Lituanien",
     "pronunciation": "lityani",
     "definition": [
       "Lithuanian"
     ]
   },
-  "Lituanienne": {
+  "lituanienne": {
     "word": "Lituanienne",
     "pronunciation": "lityanjɛn",
     "definition": [
       "Lithuanian woman"
     ]
   },
-  "Livonie": {
+  "livonie": {
     "word": "Livonie",
     "pronunciation": "livoni",
     "definition": [
       "Livonia"
     ]
   },
-  "Livonien": {
+  "livonien": {
     "word": "Livonien",
     "pronunciation": "livoni",
     "definition": [
       "Livonian"
     ]
   },
-  "Livourne": {
+  "livourne": {
     "word": "Livourne",
     "pronunciation": "livuʀn",
     "definition": [
       "Leghorn"
     ]
   },
-  "Liège": {
+  "liège": {
     "word": "Liège",
     "pronunciation": "ljɛʒ",
     "definition": [
       "Liège"
     ]
   },
-  "Liége": {
+  "liége": {
     "word": "Liége",
     "pronunciation": "ljeʒ",
     "definition": [
       "Liège"
     ]
   },
-  "Londres": {
+  "londres": {
     "word": "Londres",
     "pronunciation": "lɔ̃dʀ",
     "definition": [
       "London"
     ]
   },
-  "Lorraine": {
+  "lorraine": {
     "word": "Lorraine",
     "pronunciation": "loʀɛn",
     "definition": [
@@ -3527,42 +3527,42 @@
       "Lothringen"
     ]
   },
-  "Louvain": {
+  "louvain": {
     "word": "Louvain",
     "pronunciation": "luvɛ̃",
     "definition": [
       "Louvain"
     ]
   },
-  "Lucerne": {
+  "lucerne": {
     "word": "Lucerne",
     "pronunciation": "lysɛʀn",
     "definition": [
       "Lucerne"
     ]
   },
-  "Luxembourg": {
+  "luxembourg": {
     "word": "Luxembourg",
     "pronunciation": "lyksɑ̃buʀ",
     "definition": [
       "Luxemburg"
     ]
   },
-  "Luxemburgeois": {
+  "luxemburgeois": {
     "word": "Luxemburgeois",
     "pronunciation": "lyksɑ̃byʀʒwa",
     "definition": [
       "Luxemburger"
     ]
   },
-  "Machiavel": {
+  "machiavel": {
     "word": "Machiavel",
     "pronunciation": "makjavɛl",
     "definition": [
       "Machiavelli"
     ]
   },
-  "Mackenzie": {
+  "mackenzie": {
     "word": "Mackenzie",
     "pronunciation": "makɑ̃zi",
     "definition": [
@@ -3570,42 +3570,42 @@
       "Mackenzie River"
     ]
   },
-  "Macédoine": {
+  "macédoine": {
     "word": "Macédoine",
     "pronunciation": "masedwan",
     "definition": [
       "Macedonia"
     ]
   },
-  "Macédonien": {
+  "macédonien": {
     "word": "Macédonien",
     "pronunciation": "masedoni",
     "definition": [
       "Macedonian"
     ]
   },
-  "Madagascar": {
+  "madagascar": {
     "word": "Madagascar",
     "pronunciation": "madagaskaʀ",
     "definition": [
       "Madagascar"
     ]
   },
-  "Madone": {
+  "madone": {
     "word": "Madone",
     "pronunciation": "madɔn",
     "definition": [
       "Madonna"
     ]
   },
-  "Madrid": {
+  "madrid": {
     "word": "Madrid",
     "pronunciation": "madʀi",
     "definition": [
       "Madrid"
     ]
   },
-  "Mahomet": {
+  "mahomet": {
     "word": "Mahomet",
     "pronunciation": "maomɛ",
     "definition": [
@@ -3613,49 +3613,49 @@
       "Muhammad"
     ]
   },
-  "Majorque": {
+  "majorque": {
     "word": "Majorque",
     "pronunciation": "maʒɔʀk",
     "definition": [
       "Majorca"
     ]
   },
-  "Malais": {
+  "malais": {
     "word": "Malais",
     "pronunciation": "malɛ",
     "definition": [
       "Malay"
     ]
   },
-  "Malaisie": {
+  "malaisie": {
     "word": "Malaisie",
     "pronunciation": "malɛzi",
     "definition": [
       "Malaysia"
     ]
   },
-  "Malaisien": {
+  "malaisien": {
     "word": "Malaisien",
     "pronunciation": "malɛzi",
     "definition": [
       "Malaysian"
     ]
   },
-  "Malawi": {
+  "malawi": {
     "word": "Malawi",
     "pronunciation": "malowi",
     "definition": [
       "Malawi"
     ]
   },
-  "Mali": {
+  "mali": {
     "word": "Mali",
     "pronunciation": "mali",
     "definition": [
       "Mali"
     ]
   },
-  "Malines": {
+  "malines": {
     "word": "Malines",
     "pronunciation": "malin",
     "definition": [
@@ -3663,265 +3663,265 @@
       "Mechlin"
     ]
   },
-  "Maltais": {
+  "maltais": {
     "word": "Maltais",
     "pronunciation": "maltɛ",
     "definition": [
       "Maltese"
     ]
   },
-  "Malte": {
+  "malte": {
     "word": "Malte",
     "pronunciation": "malt",
     "definition": [
       "Malta"
     ]
   },
-  "Mammon": {
+  "mammon": {
     "word": "Mammon",
     "pronunciation": "mamɔ̃",
     "definition": [
       "Mammon"
     ]
   },
-  "Mandchourie": {
+  "mandchourie": {
     "word": "Mandchourie",
     "pronunciation": "mɑ̃dʃuʀi",
     "definition": [
       "Manchuria"
     ]
   },
-  "Manille": {
+  "manille": {
     "word": "Manille",
     "pronunciation": "manij",
     "definition": [
       "Manila"
     ]
   },
-  "Manitoba": {
+  "manitoba": {
     "word": "Manitoba",
     "pronunciation": "manitɔba",
     "definition": [
       "Manitoba"
     ]
   },
-  "Marc-en-Barœul": {
+  "marc-en-barœul": {
     "word": "Marc-en-Barœul",
     "definition": [
       "Marcus"
     ]
   },
-  "Marcq": {
+  "marcq": {
     "word": "Marcq",
     "pronunciation": "maʀk",
     "definition": [
       "Marcus"
     ]
   },
-  "Mariannes": {
+  "mariannes": {
     "word": "Mariannes",
     "pronunciation": "maʀjan",
     "definition": [
       "Mariana Islands"
     ]
   },
-  "Marie": {
+  "marie": {
     "word": "Marie",
     "pronunciation": "maʀi",
     "definition": [
       "Mary"
     ]
   },
-  "Maroc": {
+  "maroc": {
     "word": "Maroc",
     "pronunciation": "maʀok",
     "definition": [
       "Morocco"
     ]
   },
-  "Marocain": {
+  "marocain": {
     "word": "Marocain",
     "pronunciation": "maʀokɛ̃",
     "definition": [
       "Moroccan"
     ]
   },
-  "Maroni": {
+  "maroni": {
     "word": "Maroni",
     "pronunciation": "maʀoni",
     "definition": [
       "Maroni"
     ]
   },
-  "Mars": {
+  "mars": {
     "word": "Mars",
     "pronunciation": "maʀ",
     "definition": [
       "Mars"
     ]
   },
-  "Marseille": {
+  "marseille": {
     "word": "Marseille",
     "pronunciation": "maʀsɛj",
     "definition": [
       "Marseilles"
     ]
   },
-  "Mathusalem": {
+  "mathusalem": {
     "word": "Mathusalem",
     "pronunciation": "matyzalɛm",
     "definition": [
       "Methuselah"
     ]
   },
-  "Maure": {
+  "maure": {
     "word": "Maure",
     "pronunciation": "moʀ",
     "definition": [
       "Moor"
     ]
   },
-  "Mauritanie": {
+  "mauritanie": {
     "word": "Mauritanie",
     "pronunciation": "moʀitani",
     "definition": [
       "Mauritania"
     ]
   },
-  "Mauritanien": {
+  "mauritanien": {
     "word": "Mauritanien",
     "pronunciation": "moʀitani",
     "definition": [
       "Mauretanian"
     ]
   },
-  "Mayence": {
+  "mayence": {
     "word": "Mayence",
     "pronunciation": "mɛjɑ̃s",
     "definition": [
       "Mayence"
     ]
   },
-  "Mecque": {
+  "mecque": {
     "word": "Mecque",
     "pronunciation": "mɛk",
     "definition": [
       "Mecca"
     ]
   },
-  "Mercure": {
+  "mercure": {
     "word": "Mercure",
     "pronunciation": "mɛʀkyʀ",
     "definition": [
       "Mercury"
     ]
   },
-  "Messie": {
+  "messie": {
     "word": "Messie",
     "pronunciation": "mɛsi",
     "definition": [
       "Messiah"
     ]
   },
-  "Messine": {
+  "messine": {
     "word": "Messine",
     "pronunciation": "mɛsin",
     "definition": [
       "Messina"
     ]
   },
-  "Meuse": {
+  "meuse": {
     "word": "Meuse",
     "pronunciation": "møz",
     "definition": [
       "Meuse"
     ]
   },
-  "Mexicain": {
+  "mexicain": {
     "word": "Mexicain",
     "pronunciation": "mɛksikɛ̃",
     "definition": [
       "Mexican"
     ]
   },
-  "Mexicaine": {
+  "mexicaine": {
     "word": "Mexicaine",
     "pronunciation": "mɛksikɛn",
     "definition": [
       "Mexican woman"
     ]
   },
-  "Mexico": {
+  "mexico": {
     "word": "Mexico",
     "pronunciation": "mɛksiko",
     "definition": [
       "Mexico City"
     ]
   },
-  "Mexique": {
+  "mexique": {
     "word": "Mexique",
     "pronunciation": "mɛksik",
     "definition": [
       "Mexico"
     ]
   },
-  "Milan": {
+  "milan": {
     "word": "Milan",
     "pronunciation": "milɑ̃",
     "definition": [
       "Milan"
     ]
   },
-  "Minerve": {
+  "minerve": {
     "word": "Minerve",
     "pronunciation": "minɛʀv",
     "definition": [
       "Minerva"
     ]
   },
-  "Moldave": {
+  "moldave": {
     "word": "Moldave",
     "pronunciation": "mɔldav",
     "definition": [
       "Moldavian"
     ]
   },
-  "Moldavie": {
+  "moldavie": {
     "word": "Moldavie",
     "pronunciation": "mɔldavi",
     "definition": [
       "Moldavia"
     ]
   },
-  "Moluques": {
+  "moluques": {
     "word": "Moluques",
     "pronunciation": "mɔlyk",
     "definition": [
       "Moluccas"
     ]
   },
-  "Moluquois": {
+  "moluquois": {
     "word": "Moluquois",
     "pronunciation": "mɔlykwa",
     "definition": [
       "Moluccan"
     ]
   },
-  "Monaco": {
+  "monaco": {
     "word": "Monaco",
     "pronunciation": "monako",
     "definition": [
       "Monaco"
     ]
   },
-  "Mongolie": {
+  "mongolie": {
     "word": "Mongolie",
     "pronunciation": "mɔ̃gɔli",
     "definition": [
       "Mongolia"
     ]
   },
-  "Monsieur": {
+  "monsieur": {
     "word": "Monsieur",
     "pronunciation": "məsjø",
     "definition": [
@@ -3930,258 +3930,258 @@
       "Mr."
     ]
   },
-  "Monténégrin": {
+  "monténégrin": {
     "word": "Monténégrin",
     "pronunciation": "mɔ̃tenegʀɛ̃",
     "definition": [
       "Montenegrin"
     ]
   },
-  "Monténégro": {
+  "monténégro": {
     "word": "Monténégro",
     "pronunciation": "mɔ̃tenegʀo",
     "definition": [
       "Montenegro"
     ]
   },
-  "Monégasque": {
+  "monégasque": {
     "word": "Monégasque",
     "pronunciation": "monegask",
     "definition": [
       "Monacan"
     ]
   },
-  "Moravie": {
+  "moravie": {
     "word": "Moravie",
     "pronunciation": "mɔʀavi",
     "definition": [
       "Moravia"
     ]
   },
-  "More": {
+  "more": {
     "word": "More",
     "pronunciation": "mɔʀ",
     "definition": [
       "Moor"
     ]
   },
-  "Morphée": {
+  "morphée": {
     "word": "Morphée",
     "pronunciation": "mɔʀfe",
     "definition": [
       "Morpheus"
     ]
   },
-  "Moscou": {
+  "moscou": {
     "word": "Moscou",
     "pronunciation": "mosku",
     "definition": [
       "Moscow"
     ]
   },
-  "Moscovite": {
+  "moscovite": {
     "word": "Moscovite",
     "pronunciation": "moskovit",
     "definition": [
       "Muscovite"
     ]
   },
-  "Moselle": {
+  "moselle": {
     "word": "Moselle",
     "pronunciation": "mozɛl",
     "definition": [
       "Moselle"
     ]
   },
-  "Moïse": {
+  "moïse": {
     "word": "Moïse",
     "pronunciation": "moiz",
     "definition": [
       "Moses"
     ]
   },
-  "Munich": {
+  "munich": {
     "word": "Munich",
     "pronunciation": "myniʃ",
     "definition": [
       "Munich"
     ]
   },
-  "Mycènes": {
+  "mycènes": {
     "word": "Mycènes",
     "pronunciation": "misɛn",
     "definition": [
       "Mycenae"
     ]
   },
-  "Méditerranée": {
+  "méditerranée": {
     "word": "Méditerranée",
     "pronunciation": "meditɛʀane",
     "definition": [
       "Mediterranean"
     ]
   },
-  "Méduse": {
+  "méduse": {
     "word": "Méduse",
     "pronunciation": "medyz",
     "definition": [
       "Medusa"
     ]
   },
-  "Mélanésie": {
+  "mélanésie": {
     "word": "Mélanésie",
     "pronunciation": "melanezi",
     "definition": [
       "Melanesia"
     ]
   },
-  "Mélanésien": {
+  "mélanésien": {
     "word": "Mélanésien",
     "pronunciation": "melanezi",
     "definition": [
       "Melanesian"
     ]
   },
-  "Méphistophélès": {
+  "méphistophélès": {
     "word": "Méphistophélès",
     "pronunciation": "mefistofelɛ",
     "definition": [
       "Mephistopheles"
     ]
   },
-  "Mésopotamie": {
+  "mésopotamie": {
     "word": "Mésopotamie",
     "pronunciation": "mezɔpɔtami",
     "definition": [
       "Mesopotamia"
     ]
   },
-  "Nabuchodonosor": {
+  "nabuchodonosor": {
     "word": "Nabuchodonosor",
     "pronunciation": "nabyʃɔdonozɔʀ",
     "definition": [
       "Nebuchadnezzar"
     ]
   },
-  "Namur": {
+  "namur": {
     "word": "Namur",
     "pronunciation": "namyʀ",
     "definition": [
       "Namur"
     ]
   },
-  "Nankin": {
+  "nankin": {
     "word": "Nankin",
     "pronunciation": "nɑ̃kɛ̃",
     "definition": [
       "Nanking"
     ]
   },
-  "Naples": {
+  "naples": {
     "word": "Naples",
     "pronunciation": "napl",
     "definition": [
       "Naples"
     ]
   },
-  "Napolitain": {
+  "napolitain": {
     "word": "Napolitain",
     "pronunciation": "napɔlitɛ̃",
     "definition": [
       "Neapolitan"
     ]
   },
-  "Nemrod": {
+  "nemrod": {
     "word": "Nemrod",
     "pronunciation": "nɑ̃mʀɔ",
     "definition": [
       "Nimrod"
     ]
   },
-  "Neptune": {
+  "neptune": {
     "word": "Neptune",
     "pronunciation": "nɛptyn",
     "definition": [
       "Neptune"
     ]
   },
-  "Nicaragua": {
+  "nicaragua": {
     "word": "Nicaragua",
     "pronunciation": "nikaʀaga",
     "definition": [
       "Nicaragua"
     ]
   },
-  "Nicaraguayen": {
+  "nicaraguayen": {
     "word": "Nicaraguayen",
     "pronunciation": "nikaʀagɛj",
     "definition": [
       "Nicaraguan"
     ]
   },
-  "Niger": {
+  "niger": {
     "word": "Niger",
     "pronunciation": "niʒe",
     "definition": [
       "Niger"
     ]
   },
-  "Nigeria": {
+  "nigeria": {
     "word": "Nigeria",
     "pronunciation": "niʒəʀja",
     "definition": [
       "Nigeria"
     ]
   },
-  "Nigérian": {
+  "nigérian": {
     "word": "Nigérian",
     "pronunciation": "niʒeʀjɑ̃",
     "definition": [
       "Nigerian"
     ]
   },
-  "Nigérien": {
+  "nigérien": {
     "word": "Nigérien",
     "pronunciation": "niʒeʀi",
     "definition": [
       "Nigerien"
     ]
   },
-  "Nil": {
+  "nil": {
     "word": "Nil",
     "pronunciation": "nil",
     "definition": [
       "Nile"
     ]
   },
-  "Nimègue": {
+  "nimègue": {
     "word": "Nimègue",
     "pronunciation": "nimɛg",
     "definition": [
       "Nimwegen"
     ]
   },
-  "Noir": {
+  "noir": {
     "word": "Noir",
     "pronunciation": "nwaʀ",
     "definition": [
       "Negro"
     ]
   },
-  "Nord-Américain": {
+  "nord-américain": {
     "word": "Nord-Américain",
     "definition": [
       "North American"
     ]
   },
-  "Nordafricain": {
+  "nordafricain": {
     "word": "Nordafricain",
     "pronunciation": "nɔʀdafʀikɛ̃",
     "definition": [
       "North African"
     ]
   },
-  "Normand": {
+  "normand": {
     "word": "Normand",
     "pronunciation": "nɔʀmɑ̃",
     "definition": [
@@ -4190,113 +4190,113 @@
       "Norseman"
     ]
   },
-  "Norvège": {
+  "norvège": {
     "word": "Norvège",
     "pronunciation": "nɔʀvɛʒ",
     "definition": [
       "Norway"
     ]
   },
-  "Norvégien": {
+  "norvégien": {
     "word": "Norvégien",
     "pronunciation": "nɔʀveʒi",
     "definition": [
       "Norwegian"
     ]
   },
-  "Norvégienne": {
+  "norvégienne": {
     "word": "Norvégienne",
     "pronunciation": "nɔʀveʒjɛn",
     "definition": [
       "Norwegian woman"
     ]
   },
-  "Nouveau-Brunswick": {
+  "nouveau-brunswick": {
     "word": "Nouveau-Brunswick",
     "definition": [
       "New Brunswick"
     ]
   },
-  "Nouvelle-Ecosse": {
+  "nouvelle-ecosse": {
     "word": "Nouvelle-Ecosse",
     "definition": [
       "Nova Scotia",
       "Nova Skotia"
     ]
   },
-  "Nouvelle-Galles du Sud": {
+  "nouvelle-galles du sud": {
     "word": "Nouvelle-Galles du Sud",
     "definition": [
       "New South Wales"
     ]
   },
-  "Nouvelle-Guinée": {
+  "nouvelle-guinée": {
     "word": "Nouvelle-Guinée",
     "definition": [
       "New Guinea"
     ]
   },
-  "Nouvelle-Orléans": {
+  "nouvelle-orléans": {
     "word": "Nouvelle-Orléans",
     "definition": [
       "New Orleans"
     ]
   },
-  "Nouvelle-Zélande": {
+  "nouvelle-zélande": {
     "word": "Nouvelle-Zélande",
     "definition": [
       "New Zealand"
     ]
   },
-  "Noé": {
+  "noé": {
     "word": "Noé",
     "pronunciation": "noe",
     "definition": [
       "Noah"
     ]
   },
-  "Néerlandais": {
+  "néerlandais": {
     "word": "Néerlandais",
     "pronunciation": "neɛʀlɑ̃dɛ",
     "definition": [
       "Dutchman"
     ]
   },
-  "Néerlandaise": {
+  "néerlandaise": {
     "word": "Néerlandaise",
     "pronunciation": "neɛʀlɑ̃dɛz",
     "definition": [
       "Dutch woman"
     ]
   },
-  "Némésis": {
+  "némésis": {
     "word": "Némésis",
     "pronunciation": "nemezi",
     "definition": [
       "Nemesis"
     ]
   },
-  "Néo-Zélandais": {
+  "néo-zélandais": {
     "word": "Néo-Zélandais",
     "definition": [
       "New Zealander"
     ]
   },
-  "Népal": {
+  "népal": {
     "word": "Népal",
     "pronunciation": "nepal",
     "definition": [
       "Nepal"
     ]
   },
-  "Népalais": {
+  "népalais": {
     "word": "Népalais",
     "pronunciation": "nepalɛ",
     "definition": [
       "Nepalese"
     ]
   },
-  "Océanie": {
+  "océanie": {
     "word": "Océanie",
     "pronunciation": "ɔseani",
     "definition": [
@@ -4304,28 +4304,28 @@
       "Oceanica"
     ]
   },
-  "Olympe": {
+  "olympe": {
     "word": "Olympe",
     "pronunciation": "ɔlip",
     "definition": [
       "Olympus"
     ]
   },
-  "Ontario": {
+  "ontario": {
     "word": "Ontario",
     "pronunciation": "ɔ̃taʀjo",
     "definition": [
       "Ontario"
     ]
   },
-  "Orange": {
+  "orange": {
     "word": "Orange",
     "pronunciation": "oʀɑ̃ʒ",
     "definition": [
       "Orange"
     ]
   },
-  "Orcades": {
+  "orcades": {
     "word": "Orcades",
     "pronunciation": "ɔʀkad",
     "definition": [
@@ -4333,14 +4333,14 @@
       "Orkneys"
     ]
   },
-  "Orphée": {
+  "orphée": {
     "word": "Orphée",
     "pronunciation": "ɔʀfe",
     "definition": [
       "Orpheus"
     ]
   },
-  "Ostende": {
+  "ostende": {
     "word": "Ostende",
     "pronunciation": "ostɑ̃d",
     "definition": [
@@ -4348,21 +4348,21 @@
       "Ostende"
     ]
   },
-  "Ostrogoth": {
+  "ostrogoth": {
     "word": "Ostrogoth",
     "pronunciation": "ostʀogɔt",
     "definition": [
       "Ostrogoth"
     ]
   },
-  "Oural": {
+  "oural": {
     "word": "Oural",
     "pronunciation": "uʀal",
     "definition": [
       "Ural"
     ]
   },
-  "Pacifique": {
+  "pacifique": {
     "word": "Pacifique",
     "pronunciation": "pasifik",
     "definition": [
@@ -4370,21 +4370,21 @@
       "Pacific Ocean"
     ]
   },
-  "Pakistan": {
+  "pakistan": {
     "word": "Pakistan",
     "pronunciation": "pakistɑ̃",
     "definition": [
       "Pakistan"
     ]
   },
-  "Pakistanais": {
+  "pakistanais": {
     "word": "Pakistanais",
     "pronunciation": "pakistanɛ",
     "definition": [
       "Pakistani"
     ]
   },
-  "Pakistanaise": {
+  "pakistanaise": {
     "word": "Pakistanaise",
     "pronunciation": "pakistanɛz",
     "definition": [
@@ -4392,14 +4392,14 @@
       "Pakistani woman"
     ]
   },
-  "Palestine": {
+  "palestine": {
     "word": "Palestine",
     "pronunciation": "palɛstin",
     "definition": [
       "Palestinian"
     ]
   },
-  "Palestinien": {
+  "palestinien": {
     "word": "Palestinien",
     "pronunciation": "palɛstini",
     "definition": [
@@ -4407,105 +4407,105 @@
       "Palestinian"
     ]
   },
-  "Pan": {
+  "pan": {
     "word": "Pan",
     "pronunciation": "pɑ̃",
     "definition": [
       "Pan"
     ]
   },
-  "Panam": {
+  "panam": {
     "word": "Panam",
     "pronunciation": "panam",
     "definition": [
       "Paris"
     ]
   },
-  "Panama": {
+  "panama": {
     "word": "Panama",
     "pronunciation": "panama",
     "definition": [
       "Panama"
     ]
   },
-  "Paname": {
+  "paname": {
     "word": "Paname",
     "pronunciation": "panam",
     "definition": [
       "Paris"
     ]
   },
-  "Panaméen": {
+  "panaméen": {
     "word": "Panaméen",
     "pronunciation": "paname",
     "definition": [
       "Panamanian"
     ]
   },
-  "Panaméenne": {
+  "panaméenne": {
     "word": "Panaméenne",
     "pronunciation": "panameɛn",
     "definition": [
       "Panamanian woman"
     ]
   },
-  "Pandore": {
+  "pandore": {
     "word": "Pandore",
     "pronunciation": "pɑ̃dɔʀ",
     "definition": [
       "Pandora"
     ]
   },
-  "Papou": {
+  "papou": {
     "word": "Papou",
     "pronunciation": "papu",
     "definition": [
       "Papuan"
     ]
   },
-  "Paris": {
+  "paris": {
     "word": "Paris",
     "pronunciation": "paʀi",
     "definition": [
       "Paris"
     ]
   },
-  "Parisien": {
+  "parisien": {
     "word": "Parisien",
     "pronunciation": "paʀizi",
     "definition": [
       "Parisian"
     ]
   },
-  "Parthe": {
+  "parthe": {
     "word": "Parthe",
     "pronunciation": "paʀt",
     "definition": [
       "Parthian"
     ]
   },
-  "Passe Lower": {
+  "passe lower": {
     "word": "Passe Lower",
     "pronunciation": "paslove",
     "definition": [
       "Lower Narrows"
     ]
   },
-  "Pays-Bas": {
+  "pays-bas": {
     "word": "Pays-Bas",
     "definition": [
       "Holland",
       "the Netherlands"
     ]
   },
-  "Pentateuque": {
+  "pentateuque": {
     "word": "Pentateuque",
     "pronunciation": "pɑ̃tatøk",
     "definition": [
       "Pentateuch"
     ]
   },
-  "Pentecôte": {
+  "pentecôte": {
     "word": "Pentecôte",
     "pronunciation": "pɑ̃təkot",
     "definition": [
@@ -4513,21 +4513,21 @@
       "Whitsunday"
     ]
   },
-  "Persan": {
+  "persan": {
     "word": "Persan",
     "pronunciation": "pɛʀsɑ̃",
     "definition": [
       "Persian"
     ]
   },
-  "Persane": {
+  "persane": {
     "word": "Persane",
     "pronunciation": "pɛʀsan",
     "definition": [
       "Persian woman"
     ]
   },
-  "Perse": {
+  "perse": {
     "word": "Perse",
     "pronunciation": "pɛʀs",
     "definition": [
@@ -4535,28 +4535,28 @@
       "Persia"
     ]
   },
-  "Petit Poucet": {
+  "petit poucet": {
     "word": "Petit Poucet",
     "pronunciation": "pətipusɛ",
     "definition": [
       "Tom Thumb"
     ]
   },
-  "Philippin": {
+  "philippin": {
     "word": "Philippin",
     "pronunciation": "filipɛ̃",
     "definition": [
       "Filipino"
     ]
   },
-  "Philippine": {
+  "philippine": {
     "word": "Philippine",
     "pronunciation": "filipin",
     "definition": [
       "Philippine woman"
     ]
   },
-  "Philippines": {
+  "philippines": {
     "word": "Philippines",
     "pronunciation": "filipin",
     "definition": [
@@ -4564,160 +4564,160 @@
       "Philippines"
     ]
   },
-  "Platon": {
+  "platon": {
     "word": "Platon",
     "pronunciation": "platɔ̃",
     "definition": [
       "Plato"
     ]
   },
-  "Pluton": {
+  "pluton": {
     "word": "Pluton",
     "pronunciation": "plytɔ̃",
     "definition": [
       "Pluto"
     ]
   },
-  "Pologne": {
+  "pologne": {
     "word": "Pologne",
     "pronunciation": "pɔlonj",
     "definition": [
       "Poland"
     ]
   },
-  "Polonais": {
+  "polonais": {
     "word": "Polonais",
     "pronunciation": "pɔlonɛ",
     "definition": [
       "Pole"
     ]
   },
-  "Polonaise": {
+  "polonaise": {
     "word": "Polonaise",
     "pronunciation": "pɔlonɛz",
     "definition": [
       "Polish woman"
     ]
   },
-  "Polynésie": {
+  "polynésie": {
     "word": "Polynésie",
     "pronunciation": "pɔlinezi",
     "definition": [
       "Polynesia"
     ]
   },
-  "Polynésien": {
+  "polynésien": {
     "word": "Polynésien",
     "pronunciation": "pɔlinezi",
     "definition": [
       "Polynesian"
     ]
   },
-  "Poméranie": {
+  "poméranie": {
     "word": "Poméranie",
     "pronunciation": "pɔmeʀani",
     "definition": [
       "Pomerania"
     ]
   },
-  "Pont-Euxine": {
+  "pont-euxine": {
     "word": "Pont-Euxine",
     "definition": [
       "Black Sea",
       "Euxine Sea"
     ]
   },
-  "Porto": {
+  "porto": {
     "word": "Porto",
     "pronunciation": "pɔʀto",
     "definition": [
       "Oporto"
     ]
   },
-  "Portugais": {
+  "portugais": {
     "word": "Portugais",
     "pronunciation": "pɔʀtygɛ",
     "definition": [
       "Portuguese"
     ]
   },
-  "Portugaise": {
+  "portugaise": {
     "word": "Portugaise",
     "pronunciation": "pɔʀtygɛz",
     "definition": [
       "Portuguese woman"
     ]
   },
-  "Portugal": {
+  "portugal": {
     "word": "Portugal",
     "pronunciation": "pɔʀtygal",
     "definition": [
       "Portugal"
     ]
   },
-  "Prague": {
+  "prague": {
     "word": "Prague",
     "pronunciation": "pʀag",
     "definition": [
       "Prague"
     ]
   },
-  "Proche-Orient": {
+  "proche-orient": {
     "word": "Proche-Orient",
     "definition": [
       "Middle East"
     ]
   },
-  "Protée": {
+  "protée": {
     "word": "Protée",
     "pronunciation": "pʀɔte",
     "definition": [
       "Proteus"
     ]
   },
-  "Prusse": {
+  "prusse": {
     "word": "Prusse",
     "pronunciation": "pʀys",
     "definition": [
       "Prussia"
     ]
   },
-  "Prussien": {
+  "prussien": {
     "word": "Prussien",
     "pronunciation": "pʀysi",
     "definition": [
       "Prussian"
     ]
   },
-  "Ptolémée": {
+  "ptolémée": {
     "word": "Ptolémée",
     "pronunciation": "ptɔleme",
     "definition": [
       "Ptolemy"
     ]
   },
-  "Pâques": {
+  "pâques": {
     "word": "Pâques",
     "pronunciation": "pak",
     "definition": [
       "Easter"
     ]
   },
-  "Pâris": {
+  "pâris": {
     "word": "Pâris",
     "pronunciation": "paʀi",
     "definition": [
       "Paris"
     ]
   },
-  "Pégase": {
+  "pégase": {
     "word": "Pégase",
     "pronunciation": "pegaz",
     "definition": [
       "Pegasus"
     ]
   },
-  "Pékin": {
+  "pékin": {
     "word": "Pékin",
     "pronunciation": "pekɛ̃",
     "definition": [
@@ -4725,91 +4725,91 @@
       "Peking"
     ]
   },
-  "Péninsule Ministikawatin": {
+  "péninsule ministikawatin": {
     "word": "Péninsule Ministikawatin",
     "pronunciation": "penɛ̃sylministikowatɛ̃",
     "definition": [
       "Ministikawatin Peninsula"
     ]
   },
-  "Pénélope": {
+  "pénélope": {
     "word": "Pénélope",
     "pronunciation": "penelɔp",
     "definition": [
       "Penelope"
     ]
   },
-  "Pérou": {
+  "pérou": {
     "word": "Pérou",
     "pronunciation": "peʀu",
     "definition": [
       "Peru"
     ]
   },
-  "Québec": {
+  "québec": {
     "word": "Québec",
     "pronunciation": "kebɛk",
     "definition": [
       "Quebec"
     ]
   },
-  "Rameaux": {
+  "rameaux": {
     "word": "Rameaux",
     "pronunciation": "ʀamo",
     "definition": [
       "Palm Sunday"
     ]
   },
-  "Ratisbonne": {
+  "ratisbonne": {
     "word": "Ratisbonne",
     "pronunciation": "ʀatisbɔn",
     "definition": [
       "Ratisbon"
     ]
   },
-  "Reims": {
+  "reims": {
     "word": "Reims",
     "pronunciation": "ʀɛ̃",
     "definition": [
       "Rheims"
     ]
   },
-  "Rhin": {
+  "rhin": {
     "word": "Rhin",
     "pronunciation": "ʀɛ̃",
     "definition": [
       "Rhine"
     ]
   },
-  "Rhodésie": {
+  "rhodésie": {
     "word": "Rhodésie",
     "pronunciation": "ʀodezi",
     "definition": [
       "Rhodesia"
     ]
   },
-  "Rhénanie": {
+  "rhénanie": {
     "word": "Rhénanie",
     "pronunciation": "ʀenani",
     "definition": [
       "Rhineland"
     ]
   },
-  "Rhône": {
+  "rhône": {
     "word": "Rhône",
     "pronunciation": "ʀon",
     "definition": [
       "Rhone"
     ]
   },
-  "Richard": {
+  "richard": {
     "word": "Richard",
     "pronunciation": "ʀiʃaʀ",
     "definition": [
       "Richard"
     ]
   },
-  "Rivière Churchill": {
+  "rivière churchill": {
     "word": "Rivière Churchill",
     "pronunciation": "ʀivjɛʀʃyʀʃi",
     "definition": [
@@ -4817,49 +4817,49 @@
       "Churchill River"
     ]
   },
-  "Romain": {
+  "romain": {
     "word": "Romain",
     "pronunciation": "ʀomɛ̃",
     "definition": [
       "Roman"
     ]
   },
-  "Rome": {
+  "rome": {
     "word": "Rome",
     "pronunciation": "ʀɔm",
     "definition": [
       "Rome"
     ]
   },
-  "Roumain": {
+  "roumain": {
     "word": "Roumain",
     "pronunciation": "ʀumɛ̃",
     "definition": [
       "Romanian"
     ]
   },
-  "Roumaine": {
+  "roumaine": {
     "word": "Roumaine",
     "pronunciation": "ʀumɛn",
     "definition": [
       "Romanian woman"
     ]
   },
-  "Roumanie": {
+  "roumanie": {
     "word": "Roumanie",
     "pronunciation": "ʀumani",
     "definition": [
       "Romania"
     ]
   },
-  "Rubicon": {
+  "rubicon": {
     "word": "Rubicon",
     "pronunciation": "ʀybikɔ̃",
     "definition": [
       "Rubicon"
     ]
   },
-  "Russe": {
+  "russe": {
     "word": "Russe",
     "pronunciation": "ʀys",
     "definition": [
@@ -4867,79 +4867,79 @@
       "Russian"
     ]
   },
-  "Russie": {
+  "russie": {
     "word": "Russie",
     "pronunciation": "ʀysi",
     "definition": [
       "Russia"
     ]
   },
-  "Républic Dominicaine": {
+  "républic dominicaine": {
     "word": "Républic Dominicaine",
     "pronunciation": "ʀepyblikdominikɛn",
     "definition": [
       "Dominica"
     ]
   },
-  "Sagittaire": {
+  "sagittaire": {
     "word": "Sagittaire",
     "pronunciation": "saʒitɛʀ",
     "definition": [
       "Sagittarius"
     ]
   },
-  "Sahara": {
+  "sahara": {
     "word": "Sahara",
     "pronunciation": "saaʀa",
     "definition": [
       "Sahara"
     ]
   },
-  "Saint-Marin": {
+  "saint-marin": {
     "word": "Saint-Marin",
     "definition": [
       "San Marino"
     ]
   },
-  "Saint-Nicolas": {
+  "saint-nicolas": {
     "word": "Saint-Nicolas",
     "definition": [
       "Saint Nicholas",
       "St. Nicholas"
     ]
   },
-  "Saint-Pétersbourg": {
+  "saint-pétersbourg": {
     "word": "Saint-Pétersbourg",
     "definition": [
       "Saint Petersburg"
     ]
   },
-  "Saint-Sylvestre": {
+  "saint-sylvestre": {
     "word": "Saint-Sylvestre",
     "definition": [
       "New Year's Eve"
     ]
   },
-  "Sainte-Hélène": {
+  "sainte-hélène": {
     "word": "Sainte-Hélène",
     "definition": [
       "Saint Helena"
     ]
   },
-  "Sainte-Vierge": {
+  "sainte-vierge": {
     "word": "Sainte-Vierge",
     "definition": [
       "Madonna"
     ]
   },
-  "Samarie": {
+  "samarie": {
     "word": "Samarie",
     "pronunciation": "samaʀi",
     "definition": [
       "Samaria"
     ]
   },
-  "Sardaigne": {
+  "sardaigne": {
     "word": "Sardaigne",
     "pronunciation": "saʀdɛnj",
     "definition": [
@@ -4947,14 +4947,14 @@
       "Sardina"
     ]
   },
-  "Sarde": {
+  "sarde": {
     "word": "Sarde",
     "pronunciation": "saʀd",
     "definition": [
       "Sardinian"
     ]
   },
-  "Satan": {
+  "satan": {
     "word": "Satan",
     "pronunciation": "satɑ̃",
     "definition": [
@@ -4962,14 +4962,14 @@
       "Satan"
     ]
   },
-  "Saturne": {
+  "saturne": {
     "word": "Saturne",
     "pronunciation": "satyʀn",
     "definition": [
       "Saturn"
     ]
   },
-  "Saxe": {
+  "saxe": {
     "word": "Saxe",
     "pronunciation": "saks",
     "definition": [
@@ -4977,14 +4977,14 @@
       "Saxony"
     ]
   },
-  "Saxon": {
+  "saxon": {
     "word": "Saxon",
     "pronunciation": "saksɔn",
     "definition": [
       "Saxon"
     ]
   },
-  "Scandinave": {
+  "scandinave": {
     "word": "Scandinave",
     "pronunciation": "skɑ̃dinav",
     "definition": [
@@ -4992,49 +4992,49 @@
       "Scandinavian"
     ]
   },
-  "Scandinavie": {
+  "scandinavie": {
     "word": "Scandinavie",
     "pronunciation": "skɑ̃dinavi",
     "definition": [
       "Scandinavia"
     ]
   },
-  "Scylla": {
+  "scylla": {
     "word": "Scylla",
     "pronunciation": "sila",
     "definition": [
       "Scylla"
     ]
   },
-  "Seine": {
+  "seine": {
     "word": "Seine",
     "pronunciation": "sɛn",
     "definition": [
       "Sein"
     ]
   },
-  "Serbe": {
+  "serbe": {
     "word": "Serbe",
     "pronunciation": "sɛʀb",
     "definition": [
       "Serb"
     ]
   },
-  "Serbie": {
+  "serbie": {
     "word": "Serbie",
     "pronunciation": "sɛʀbi",
     "definition": [
       "Serbia"
     ]
   },
-  "Seychelles": {
+  "seychelles": {
     "word": "Seychelles",
     "pronunciation": "sɛʃɛl",
     "definition": [
       "Seychelles"
     ]
   },
-  "Siam": {
+  "siam": {
     "word": "Siam",
     "pronunciation": "sjam",
     "definition": [
@@ -5042,63 +5042,63 @@
       "Thailand"
     ]
   },
-  "Sibérie": {
+  "sibérie": {
     "word": "Sibérie",
     "pronunciation": "sibeʀi",
     "definition": [
       "Siberia"
     ]
   },
-  "Sicile": {
+  "sicile": {
     "word": "Sicile",
     "pronunciation": "sisil",
     "definition": [
       "Sicily"
     ]
   },
-  "Sicilien": {
+  "sicilien": {
     "word": "Sicilien",
     "pronunciation": "sisili",
     "definition": [
       "Sicilian"
     ]
   },
-  "Sicilienne": {
+  "sicilienne": {
     "word": "Sicilienne",
     "pronunciation": "sisiljɛn",
     "definition": [
       "Sicilian woman"
     ]
   },
-  "Singapour": {
+  "singapour": {
     "word": "Singapour",
     "pronunciation": "sɛ̃gapuʀ",
     "definition": [
       "Singapore"
     ]
   },
-  "Singapourien": {
+  "singapourien": {
     "word": "Singapourien",
     "pronunciation": "sɛ̃gapuʀi",
     "definition": [
       "Singaporean"
     ]
   },
-  "Slave": {
+  "slave": {
     "word": "Slave",
     "pronunciation": "slav",
     "definition": [
       "Slav"
     ]
   },
-  "Slavon": {
+  "slavon": {
     "word": "Slavon",
     "pronunciation": "slavɔ̃",
     "definition": [
       "Slavonian"
     ]
   },
-  "Slovaque": {
+  "slovaque": {
     "word": "Slovaque",
     "pronunciation": "slovak",
     "definition": [
@@ -5106,14 +5106,14 @@
       "Slovak"
     ]
   },
-  "Slovaquie": {
+  "slovaquie": {
     "word": "Slovaquie",
     "pronunciation": "slovaki",
     "definition": [
       "Slovakia"
     ]
   },
-  "Slovène": {
+  "slovène": {
     "word": "Slovène",
     "pronunciation": "slovɛn",
     "definition": [
@@ -5121,21 +5121,21 @@
       "Slovenian"
     ]
   },
-  "Slovénie": {
+  "slovénie": {
     "word": "Slovénie",
     "pronunciation": "sloveni",
     "definition": [
       "Slovenia"
     ]
   },
-  "Somalie": {
+  "somalie": {
     "word": "Somalie",
     "pronunciation": "somali",
     "definition": [
       "Somalia"
     ]
   },
-  "Somalien": {
+  "somalien": {
     "word": "Somalien",
     "pronunciation": "somali",
     "definition": [
@@ -5143,75 +5143,75 @@
       "Somalian"
     ]
   },
-  "Sophie": {
+  "sophie": {
     "word": "Sophie",
     "pronunciation": "sofi",
     "definition": [
       "Sofia"
     ]
   },
-  "Soudan": {
+  "soudan": {
     "word": "Soudan",
     "pronunciation": "sudɑ̃",
     "definition": [
       "Sudan"
     ]
   },
-  "Soudanais": {
+  "soudanais": {
     "word": "Soudanais",
     "pronunciation": "sudanɛ",
     "definition": [
       "Sudanese"
     ]
   },
-  "Sparte": {
+  "sparte": {
     "word": "Sparte",
     "pronunciation": "spaʀt",
     "definition": [
       "Sparta"
     ]
   },
-  "Spitzberg": {
+  "spitzberg": {
     "word": "Spitzberg",
     "pronunciation": "spidzbɛʀg",
     "definition": [
       "Spitsbergen"
     ]
   },
-  "Strasbourg": {
+  "strasbourg": {
     "word": "Strasbourg",
     "pronunciation": "stʀasbuʀ",
     "definition": [
       "Strasbourg"
     ]
   },
-  "Styrie": {
+  "styrie": {
     "word": "Styrie",
     "pronunciation": "stiʀi",
     "definition": [
       "Styria"
     ]
   },
-  "Styx": {
+  "styx": {
     "word": "Styx",
     "pronunciation": "sti",
     "definition": [
       "Styx"
     ]
   },
-  "Sud-Africain": {
+  "sud-africain": {
     "word": "Sud-Africain",
     "definition": [
       "South African"
     ]
   },
-  "Sud-Est asiatique": {
+  "sud-est asiatique": {
     "word": "Sud-Est asiatique",
     "definition": [
       "Sout-East Asia"
     ]
   },
-  "Suisse": {
+  "suisse": {
     "word": "Suisse",
     "pronunciation": "sɥis",
     "definition": [
@@ -5219,14 +5219,14 @@
       "Swiss"
     ]
   },
-  "Surinam": {
+  "surinam": {
     "word": "Surinam",
     "pronunciation": "syʀinam",
     "definition": [
       "Surinam"
     ]
   },
-  "Surinamien": {
+  "surinamien": {
     "word": "Surinamien",
     "pronunciation": "syʀinami",
     "definition": [
@@ -5234,133 +5234,133 @@
       "Surinamese"
     ]
   },
-  "Surinamienne": {
+  "surinamienne": {
     "word": "Surinamienne",
     "pronunciation": "syʀinamjɛn",
     "definition": [
       "Surinamese woman"
     ]
   },
-  "Suède": {
+  "suède": {
     "word": "Suède",
     "pronunciation": "syɛd",
     "definition": [
       "Sweden"
     ]
   },
-  "Suédois": {
+  "suédois": {
     "word": "Suédois",
     "pronunciation": "syedwa",
     "definition": [
       "Swede"
     ]
   },
-  "Syrie": {
+  "syrie": {
     "word": "Syrie",
     "pronunciation": "sɛ̃ʀi",
     "definition": [
       "Syria"
     ]
   },
-  "Syrien": {
+  "syrien": {
     "word": "Syrien",
     "pronunciation": "sɛ̃ʀi",
     "definition": [
       "Syrian"
     ]
   },
-  "Sémite": {
+  "sémite": {
     "word": "Sémite",
     "pronunciation": "semit",
     "definition": [
       "Semite"
     ]
   },
-  "Sénégal": {
+  "sénégal": {
     "word": "Sénégal",
     "pronunciation": "senegal",
     "definition": [
       "Senegal"
     ]
   },
-  "Sénégalais": {
+  "sénégalais": {
     "word": "Sénégalais",
     "pronunciation": "senegalɛ",
     "definition": [
       "Senegalese"
     ]
   },
-  "Séville": {
+  "séville": {
     "word": "Séville",
     "pronunciation": "sevil",
     "definition": [
       "Seville"
     ]
   },
-  "Tage": {
+  "tage": {
     "word": "Tage",
     "pronunciation": "taʒ",
     "definition": [
       "Tagus"
     ]
   },
-  "Talmud": {
+  "talmud": {
     "word": "Talmud",
     "pronunciation": "talmy",
     "definition": [
       "Talmud"
     ]
   },
-  "Tamise": {
+  "tamise": {
     "word": "Tamise",
     "pronunciation": "tamiz",
     "definition": [
       "Thames"
     ]
   },
-  "Tanger": {
+  "tanger": {
     "word": "Tanger",
     "pronunciation": "tɑ̃ʒe",
     "definition": [
       "Tangier"
     ]
   },
-  "Tantale": {
+  "tantale": {
     "word": "Tantale",
     "pronunciation": "tɑ̃tal",
     "definition": [
       "Tantalus"
     ]
   },
-  "Tanzanie": {
+  "tanzanie": {
     "word": "Tanzanie",
     "pronunciation": "tɑ̃zani",
     "definition": [
       "Tanzania"
     ]
   },
-  "Tanzanien": {
+  "tanzanien": {
     "word": "Tanzanien",
     "pronunciation": "tɑ̃zani",
     "definition": [
       "Tanzanian"
     ]
   },
-  "Tatare": {
+  "tatare": {
     "word": "Tatare",
     "pronunciation": "tataʀ",
     "definition": [
       "Tartar"
     ]
   },
-  "Tchad": {
+  "tchad": {
     "word": "Tchad",
     "pronunciation": "tʃa",
     "definition": [
       "Chad"
     ]
   },
-  "Tchèque": {
+  "tchèque": {
     "word": "Tchèque",
     "pronunciation": "tʃɛk",
     "definition": [
@@ -5368,62 +5368,62 @@
       "Czech"
     ]
   },
-  "Tchécoslovaquie": {
+  "tchécoslovaquie": {
     "word": "Tchécoslovaquie",
     "pronunciation": "tʃekoslovaki",
     "definition": [
       "Czechoslovakia"
     ]
   },
-  "Terre-Neuve": {
+  "terre-neuve": {
     "word": "Terre-Neuve",
     "definition": [
       "Newfoundland"
     ]
   },
-  "Texan": {
+  "texan": {
     "word": "Texan",
     "pronunciation": "tɛksan",
     "definition": [
       "Texan"
     ]
   },
-  "Texane": {
+  "texane": {
     "word": "Texane",
     "pronunciation": "tɛksan",
     "definition": [
       "Texan woman"
     ]
   },
-  "Texas": {
+  "texas": {
     "word": "Texas",
     "pronunciation": "tɛksa",
     "definition": [
       "Texas"
     ]
   },
-  "Thaï": {
+  "thaï": {
     "word": "Thaï",
     "pronunciation": "tai",
     "definition": [
       "Thai"
     ]
   },
-  "Thaïlandais": {
+  "thaïlandais": {
     "word": "Thaïlandais",
     "pronunciation": "tailɑ̃dɛ",
     "definition": [
       "Thai"
     ]
   },
-  "Thaïlandaise": {
+  "thaïlandaise": {
     "word": "Thaïlandaise",
     "pronunciation": "tailɑ̃dɛz",
     "definition": [
       "Thai woman"
     ]
   },
-  "Thaïlande": {
+  "thaïlande": {
     "word": "Thaïlande",
     "pronunciation": "tailɑ̃d",
     "definition": [
@@ -5431,42 +5431,42 @@
       "Thailand"
     ]
   },
-  "Tibet": {
+  "tibet": {
     "word": "Tibet",
     "pronunciation": "tibɛ",
     "definition": [
       "Tibet"
     ]
   },
-  "Tibre": {
+  "tibre": {
     "word": "Tibre",
     "pronunciation": "tibʀ",
     "definition": [
       "Tiber"
     ]
   },
-  "Tibère": {
+  "tibère": {
     "word": "Tibère",
     "pronunciation": "tibɛʀ",
     "definition": [
       "Tiberius"
     ]
   },
-  "Tibétain": {
+  "tibétain": {
     "word": "Tibétain",
     "pronunciation": "tibɛtɛ̃",
     "definition": [
       "Tibetan"
     ]
   },
-  "Tigre": {
+  "tigre": {
     "word": "Tigre",
     "pronunciation": "tigʀ",
     "definition": [
       "Tigris"
     ]
   },
-  "Togo": {
+  "togo": {
     "word": "Togo",
     "pronunciation": "togo",
     "definition": [
@@ -5474,14 +5474,14 @@
       "Togoland"
     ]
   },
-  "Tokyo": {
+  "tokyo": {
     "word": "Tokyo",
     "pronunciation": "tɔkjo",
     "definition": [
       "Tokyo"
     ]
   },
-  "Toussaint": {
+  "toussaint": {
     "word": "Toussaint",
     "pronunciation": "tusɛ̃",
     "definition": [
@@ -5489,70 +5489,70 @@
       "All Saints' Day"
     ]
   },
-  "Transylvanie": {
+  "transylvanie": {
     "word": "Transylvanie",
     "pronunciation": "tʀɑ̃silvani",
     "definition": [
       "Transylvania"
     ]
   },
-  "Troie": {
+  "troie": {
     "word": "Troie",
     "pronunciation": "tʀwa",
     "definition": [
       "Troy"
     ]
   },
-  "Troyen": {
+  "troyen": {
     "word": "Troyen",
     "pronunciation": "tʀwaj",
     "definition": [
       "Trojan"
     ]
   },
-  "Trèves": {
+  "trèves": {
     "word": "Trèves",
     "pronunciation": "tʀɛv",
     "definition": [
       "Treves"
     ]
   },
-  "Tunesie": {
+  "tunesie": {
     "word": "Tunesie",
     "pronunciation": "tynəzi",
     "definition": [
       "Tunisia"
     ]
   },
-  "Tunis": {
+  "tunis": {
     "word": "Tunis",
     "pronunciation": "tyni",
     "definition": [
       "Tunis"
     ]
   },
-  "Turc": {
+  "turc": {
     "word": "Turc",
     "pronunciation": "tyʀk",
     "definition": [
       "Turk"
     ]
   },
-  "Turin": {
+  "turin": {
     "word": "Turin",
     "pronunciation": "tyʀɛ̃",
     "definition": [
       "Turin"
     ]
   },
-  "Turkménistan": {
+  "turkménistan": {
     "word": "Turkménistan",
     "pronunciation": "tyʀkmenistɑ̃",
     "definition": [
       "Turkmenistan"
     ]
   },
-  "Turque": {
+  "turque": {
     "word": "Turque",
     "pronunciation": "tyʀk",
     "definition": [
@@ -5560,14 +5560,14 @@
       "Turkish woman"
     ]
   },
-  "Turquie": {
+  "turquie": {
     "word": "Turquie",
     "pronunciation": "tyʀki",
     "definition": [
       "Turkey"
     ]
   },
-  "Ukraine": {
+  "ukraine": {
     "word": "Ukraine",
     "pronunciation": "ykʀɛn",
     "definition": [
@@ -5575,42 +5575,42 @@
       "the Ukraine"
     ]
   },
-  "Ukrainien": {
+  "ukrainien": {
     "word": "Ukrainien",
     "pronunciation": "ykʀɛni",
     "definition": [
       "Ukrainian"
     ]
   },
-  "Ukrainienne": {
+  "ukrainienne": {
     "word": "Ukrainienne",
     "pronunciation": "ykʀɛnjɛn",
     "definition": [
       "Ukrainian woman"
     ]
   },
-  "Ulysse": {
+  "ulysse": {
     "word": "Ulysse",
     "pronunciation": "ylis",
     "definition": [
       "Ulysses"
     ]
   },
-  "Union Européenne": {
+  "union européenne": {
     "word": "Union Européenne",
     "pronunciation": "ynjɔ̃øʀɔpeɛn",
     "definition": [
       "European Union"
     ]
   },
-  "Uruguay": {
+  "uruguay": {
     "word": "Uruguay",
     "pronunciation": "yʀygɛj",
     "definition": [
       "Uruguay"
     ]
   },
-  "Valachie": {
+  "valachie": {
     "word": "Valachie",
     "pronunciation": "valaʃi",
     "definition": [
@@ -5618,21 +5618,21 @@
       "Wallachia"
     ]
   },
-  "Valence": {
+  "valence": {
     "word": "Valence",
     "pronunciation": "valɑ̃s",
     "definition": [
       "Valencia"
     ]
   },
-  "Varsovie": {
+  "varsovie": {
     "word": "Varsovie",
     "pronunciation": "vaʀsovi",
     "definition": [
       "Warsaw"
     ]
   },
-  "Vatican": {
+  "vatican": {
     "word": "Vatican",
     "pronunciation": "vatikɑ̃",
     "definition": [
@@ -5640,125 +5640,125 @@
       "the Vatican"
     ]
   },
-  "Venise": {
+  "venise": {
     "word": "Venise",
     "pronunciation": "vəniz",
     "definition": [
       "Venice"
     ]
   },
-  "Verseau": {
+  "verseau": {
     "word": "Verseau",
     "pronunciation": "vɛʀso",
     "definition": [
       "Aquarius"
     ]
   },
-  "Victoria": {
+  "victoria": {
     "word": "Victoria",
     "pronunciation": "viktɔʀja",
     "definition": [
       "Victoria"
     ]
   },
-  "Vienne": {
+  "vienne": {
     "word": "Vienne",
     "pronunciation": "vjɛn",
     "definition": [
       "Vienna"
     ]
   },
-  "Viennois": {
+  "viennois": {
     "word": "Viennois",
     "pronunciation": "vjɛnwa",
     "definition": [
       "Viennese"
     ]
   },
-  "Viennoise": {
+  "viennoise": {
     "word": "Viennoise",
     "pronunciation": "vjɛnwaz",
     "definition": [
       "Viennese woman"
     ]
   },
-  "Vietnamien": {
+  "vietnamien": {
     "word": "Vietnamien",
     "pronunciation": "vjɛtnami",
     "definition": [
       "Vietnamese"
     ]
   },
-  "Vietnamienne": {
+  "vietnamienne": {
     "word": "Vietnamienne",
     "pronunciation": "vjɛtnamjɛn",
     "definition": [
       "Vietnamese woman"
     ]
   },
-  "Viking": {
+  "viking": {
     "word": "Viking",
     "pronunciation": "vikiŋ",
     "definition": [
       "viking"
     ]
   },
-  "Visigoth": {
+  "visigoth": {
     "word": "Visigoth",
     "pronunciation": "vizigɔt",
     "definition": [
       "Visigoth"
     ]
   },
-  "Vistule": {
+  "vistule": {
     "word": "Vistule",
     "pronunciation": "vistyl",
     "definition": [
       "Vistula"
     ]
   },
-  "Viêt-nam": {
+  "viêt-nam": {
     "word": "Viêt-nam",
     "definition": [
       "Vietnam"
     ]
   },
-  "Volga": {
+  "volga": {
     "word": "Volga",
     "pronunciation": "vɔlga",
     "definition": [
       "Volga"
     ]
   },
-  "Volta Noire": {
+  "volta noire": {
     "word": "Volta Noire",
     "pronunciation": "vɔltanwaʀ",
     "definition": [
       "Black Volta"
     ]
   },
-  "Vosges": {
+  "vosges": {
     "word": "Vosges",
     "pronunciation": "vosʒ",
     "definition": [
       "Vosges"
     ]
   },
-  "Vulcain": {
+  "vulcain": {
     "word": "Vulcain",
     "pronunciation": "vylkɛ̃",
     "definition": [
       "Vulcan"
     ]
   },
-  "Vulgate": {
+  "vulgate": {
     "word": "Vulgate",
     "pronunciation": "vylgat",
     "definition": [
       "Vulgate"
     ]
   },
-  "Vénus": {
+  "vénus": {
     "word": "Vénus",
     "pronunciation": "veny",
     "definition": [
@@ -5766,7 +5766,7 @@
       "Evening Star"
     ]
   },
-  "WC": {
+  "wc": {
     "word": "WC",
     "pronunciation": "vese",
     "definition": [
@@ -5774,28 +5774,28 @@
       "WC"
     ]
   },
-  "Wallonie": {
+  "wallonie": {
     "word": "Wallonie",
     "pronunciation": "waloni",
     "definition": [
       "Wallonia"
     ]
   },
-  "Westphalie": {
+  "westphalie": {
     "word": "Westphalie",
     "pronunciation": "wɛstpali",
     "definition": [
       "Westphalia"
     ]
   },
-  "Wisigoth": {
+  "wisigoth": {
     "word": "Wisigoth",
     "pronunciation": "wizigɔt",
     "definition": [
       "Visigoth"
     ]
   },
-  "Yougoslave": {
+  "yougoslave": {
     "word": "Yougoslave",
     "pronunciation": "jugoslav",
     "definition": [
@@ -5804,21 +5804,21 @@
       "Yugoslavian"
     ]
   },
-  "Yougoslavie": {
+  "yougoslavie": {
     "word": "Yougoslavie",
     "pronunciation": "jugoslavi",
     "definition": [
       "Yugoslavia"
     ]
   },
-  "Ypres": {
+  "ypres": {
     "word": "Ypres",
     "pronunciation": "ipʀ",
     "definition": [
       "Ypres"
     ]
   },
-  "Yukon": {
+  "yukon": {
     "word": "Yukon",
     "pronunciation": "jykɔ̃",
     "definition": [
@@ -5826,14 +5826,14 @@
       "Yukon River"
     ]
   },
-  "Yémen": {
+  "yémen": {
     "word": "Yémen",
     "pronunciation": "jemɛn",
     "definition": [
       "Yemen"
     ]
   },
-  "Yéménite": {
+  "yéménite": {
     "word": "Yéménite",
     "pronunciation": "jemenit",
     "definition": [
@@ -5841,63 +5841,63 @@
       "Yemeni"
     ]
   },
-  "Zambie": {
+  "zambie": {
     "word": "Zambie",
     "pronunciation": "zɑ̃bi",
     "definition": [
       "Zambia"
     ]
   },
-  "Zambien": {
+  "zambien": {
     "word": "Zambien",
     "pronunciation": "zɑ̃bi",
     "definition": [
       "Zambian"
     ]
   },
-  "Zanzibar": {
+  "zanzibar": {
     "word": "Zanzibar",
     "pronunciation": "zɑ̃zibaʀ",
     "definition": [
       "Zanzibar"
     ]
   },
-  "Zaïre": {
+  "zaïre": {
     "word": "Zaïre",
     "pronunciation": "zaiʀ",
     "definition": [
       "Zaïre"
     ]
   },
-  "Zeus": {
+  "zeus": {
     "word": "Zeus",
     "pronunciation": "zø",
     "definition": [
       "Zeus"
     ]
   },
-  "Zimbabwe": {
+  "zimbabwe": {
     "word": "Zimbabwe",
     "pronunciation": "zɛ̃bab",
     "definition": [
       "Zimbabwe"
     ]
   },
-  "Zoulou": {
+  "zoulou": {
     "word": "Zoulou",
     "pronunciation": "zulu",
     "definition": [
       "Zulu"
     ]
   },
-  "Zélandais": {
+  "zélandais": {
     "word": "Zélandais",
     "pronunciation": "zelɑ̃dɛ",
     "definition": [
       "Zealander"
     ]
   },
-  "Zélande": {
+  "zélande": {
     "word": "Zélande",
     "pronunciation": "zelɑ̃d",
     "definition": [
@@ -15643,63 +15643,63 @@
       "bay"
     ]
   },
-  "baie Chiyask": {
+  "baie chiyask": {
     "word": "baie Chiyask",
     "pronunciation": "bɛʃiask",
     "definition": [
       "Chiyask Bay"
     ]
   },
-  "baie Georgienne": {
+  "baie georgienne": {
     "word": "baie Georgienne",
     "pronunciation": "bɛʒɔʀʒjɛn",
     "definition": [
       "Georgian Bay"
     ]
   },
-  "baie James": {
+  "baie james": {
     "word": "baie James",
     "pronunciation": "bɛʒam",
     "definition": [
       "James Bay"
     ]
   },
-  "baie chez Lepage": {
+  "baie chez lepage": {
     "word": "baie chez Lepage",
     "pronunciation": "bɛʃeləpaʒ",
     "definition": [
       "Boundary Bay"
     ]
   },
-  "baie d'Hudson": {
+  "baie d'hudson": {
     "word": "baie d'Hudson",
     "pronunciation": "bɛdysɔ̃",
     "definition": [
       "Hudson Bay"
     ]
   },
-  "baie d'Ungava": {
+  "baie d'ungava": {
     "word": "baie d'Ungava",
     "pronunciation": "bɛdygava",
     "definition": [
       "Ungava Bay"
     ]
   },
-  "baie de Baffin": {
+  "baie de baffin": {
     "word": "baie de Baffin",
     "pronunciation": "bɛdəbafɛ̃",
     "definition": [
       "Baffin Bay"
     ]
   },
-  "baie de Fundy": {
+  "baie de fundy": {
     "word": "baie de Fundy",
     "pronunciation": "bɛdəfydi",
     "definition": [
       "Bay of Fundy"
     ]
   },
-  "baie des Chaleurs": {
+  "baie des chaleurs": {
     "word": "baie des Chaleurs",
     "pronunciation": "bɛdeʃalœʀ",
     "definition": [
@@ -20359,7 +20359,7 @@
       "chain"
     ]
   },
-  "chaîne Côtière": {
+  "chaîne côtière": {
     "word": "chaîne Côtière",
     "pronunciation": "ʃɛnkotjɛʀ",
     "definition": [
@@ -20423,21 +20423,21 @@
       "channel"
     ]
   },
-  "chenal Opimica": {
+  "chenal opimica": {
     "word": "chenal Opimica",
     "pronunciation": "ʃənalopimika",
     "definition": [
       "Opimika Narrows"
     ]
   },
-  "chenal Raft": {
+  "chenal raft": {
     "word": "chenal Raft",
     "pronunciation": "ʃənalʀaf",
     "definition": [
       "Raft Channel"
     ]
   },
-  "chenal de la Culbute": {
+  "chenal de la culbute": {
     "word": "chenal de la Culbute",
     "pronunciation": "ʃənaldəlakylbyt",
     "definition": [
@@ -21391,7 +21391,7 @@
       "swine"
     ]
   },
-  "cochon d'Inde": {
+  "cochon d'inde": {
     "word": "cochon d'Inde",
     "pronunciation": "koʃɔ̃dɛ̃d",
     "definition": [
@@ -21574,7 +21574,7 @@
       "hill"
     ]
   },
-  "colline Boundary": {
+  "colline boundary": {
     "word": "colline Boundary",
     "pronunciation": "kɔlinbudaʀi",
     "definition": [
@@ -24735,14 +24735,14 @@
       "heart"
     ]
   },
-  "d'Afrikanders": {
+  "d'afrikanders": {
     "word": "d'Afrikanders",
     "pronunciation": "dafʀikɑ̃dɛʀ",
     "definition": [
       "Afrikaans"
     ]
   },
-  "d'Islande": {
+  "d'islande": {
     "word": "d'Islande",
     "pronunciation": "dɛ̃slɑ̃d",
     "definition": [
@@ -25040,14 +25040,14 @@
       "somehow"
     ]
   },
-  "de l'Allemagne occidentale": {
+  "de l'allemagne occidentale": {
     "word": "de l'Allemagne occidentale",
     "pronunciation": "dəlaləmanjoksidɑ̃tal",
     "definition": [
       "West German"
     ]
   },
-  "de l'Amérique du Nord": {
+  "de l'amérique du nord": {
     "word": "de l'Amérique du Nord",
     "pronunciation": "dəlameʀikdynɔʀ",
     "definition": [
@@ -25394,7 +25394,7 @@
       "of the"
     ]
   },
-  "des Philippines": {
+  "des philippines": {
     "word": "des Philippines",
     "pronunciation": "defilipin",
     "definition": [
@@ -25578,7 +25578,7 @@
       "second"
     ]
   },
-  "deuxième Sault": {
+  "deuxième sault": {
     "word": "deuxième Sault",
     "pronunciation": "døzjɛmsolt",
     "definition": [
@@ -26175,21 +26175,21 @@
       "distribution"
     ]
   },
-  "district de Franklin": {
+  "district de franklin": {
     "word": "district de Franklin",
     "pronunciation": "distʀiktdəfʀɑ̃klɛ̃",
     "definition": [
       "District of Franklin"
     ]
   },
-  "district de Keewatin": {
+  "district de keewatin": {
     "word": "district de Keewatin",
     "pronunciation": "distʀiktdəkiwatɛ̃",
     "definition": [
       "District of Keewatin"
     ]
   },
-  "district de Mackenzie": {
+  "district de mackenzie": {
     "word": "district de Mackenzie",
     "pronunciation": "distʀiktdəmakɑ̃zi",
     "definition": [
@@ -26443,7 +26443,7 @@
       "dowry"
     ]
   },
-  "don Quichotte": {
+  "don quichotte": {
     "word": "don Quichotte",
     "pronunciation": "dɔ̃kiʃɔt",
     "definition": [
@@ -27234,7 +27234,7 @@
       "string"
     ]
   },
-  "défilé Woolsey": {
+  "défilé woolsey": {
     "word": "défilé Woolsey",
     "pronunciation": "defilewulsɛ",
     "definition": [
@@ -27926,28 +27926,28 @@
       "strait"
     ]
   },
-  "détroit Davis": {
+  "détroit davis": {
     "word": "détroit Davis",
     "pronunciation": "detʀwadavi",
     "definition": [
       "Davis Strait"
     ]
   },
-  "détroit de Belle Ile": {
+  "détroit de belle ile": {
     "word": "détroit de Belle Ile",
     "pronunciation": "detʀwadəbɛlil",
     "definition": [
       "Strait of Belle Isle"
     ]
   },
-  "détroit de Cabot": {
+  "détroit de cabot": {
     "word": "détroit de Cabot",
     "pronunciation": "detʀwadəkabo",
     "definition": [
       "Cabot Strait"
     ]
   },
-  "détroit de Northumberland": {
+  "détroit de northumberland": {
     "word": "détroit de Northumberland",
     "pronunciation": "detʀwadənoʀtybɛʀlɑ̃",
     "definition": [
@@ -31324,7 +31324,7 @@
       "river"
     ]
   },
-  "fleuve Mackenzie": {
+  "fleuve mackenzie": {
     "word": "fleuve Mackenzie",
     "pronunciation": "flœvmakɑ̃zi",
     "definition": [
@@ -31332,7 +31332,7 @@
       "Mackenzie River"
     ]
   },
-  "fleuve Yukon": {
+  "fleuve yukon": {
     "word": "fleuve Yukon",
     "pronunciation": "flœvjykɔ̃",
     "definition": [
@@ -32550,7 +32550,7 @@
       "party"
     ]
   },
-  "fête-Dieux": {
+  "fête-dieux": {
     "word": "fête-Dieux",
     "definition": [
       "Corpus Christi"
@@ -33240,14 +33240,14 @@
       "gulf"
     ]
   },
-  "golfe Persique": {
+  "golfe persique": {
     "word": "golfe Persique",
     "pronunciation": "gɔlfpɛʀsik",
     "definition": [
       "Persian Gulf"
     ]
   },
-  "golfe du Saint-Laurent": {
+  "golfe du saint-laurent": {
     "word": "golfe du Saint-Laurent",
     "definition": [
       "Gulf of Saint Lawrence"
@@ -33473,14 +33473,14 @@
       "large"
     ]
   },
-  "grand lac de l'Ours": {
+  "grand lac de l'ours": {
     "word": "grand lac de l'Ours",
     "pronunciation": "gʀɑ̃lakdəluʀ",
     "definition": [
       "Great Bear Lake"
     ]
   },
-  "grand lac des Esclaves": {
+  "grand lac des esclaves": {
     "word": "grand lac des Esclaves",
     "pronunciation": "gʀɑ̃lakdeɛsklav",
     "definition": [
@@ -37738,7 +37738,7 @@
       "her"
     ]
   },
-  "la Manche": {
+  "la manche": {
     "word": "la Manche",
     "pronunciation": "lamɑ̃ʃ",
     "definition": [
@@ -37785,139 +37785,139 @@
       "loch"
     ]
   },
-  "lac Athabasca": {
+  "lac athabasca": {
     "word": "lac Athabasca",
     "pronunciation": "lakatabaska",
     "definition": [
       "Lake Athabasca"
     ]
   },
-  "lac Champlain": {
+  "lac champlain": {
     "word": "lac Champlain",
     "pronunciation": "lakʃɑ̃plɛ̃",
     "definition": [
       "Lake Champlain"
     ]
   },
-  "lac Clarice": {
+  "lac clarice": {
     "word": "lac Clarice",
     "pronunciation": "lakklaʀis",
     "definition": [
       "Clarice Lake"
     ]
   },
-  "lac Donquan": {
+  "lac donquan": {
     "word": "lac Donquan",
     "pronunciation": "lakdɔ̃kɑ̃",
     "definition": [
       "Donquan Lake"
     ]
   },
-  "lac Fonteneau": {
+  "lac fonteneau": {
     "word": "lac Fonteneau",
     "pronunciation": "lakfɔ̃təno",
     "definition": [
       "Fonteneau Lake"
     ]
   },
-  "lac Gaillot": {
+  "lac gaillot": {
     "word": "lac Gaillot",
     "pronunciation": "lakgajijo",
     "definition": [
       "Gaillot Lake"
     ]
   },
-  "lac Holden": {
+  "lac holden": {
     "word": "lac Holden",
     "pronunciation": "lakɔldɛn",
     "definition": [
       "Holden Lake"
     ]
   },
-  "lac Huron": {
+  "lac huron": {
     "word": "lac Huron",
     "pronunciation": "lakyʀɔ̃",
     "definition": [
       "Lake Huron"
     ]
   },
-  "lac Kingroy": {
+  "lac kingroy": {
     "word": "lac Kingroy",
     "pronunciation": "lakkɛ̃gʀwaj",
     "definition": [
       "Kingroy Lake"
     ]
   },
-  "lac Mabille": {
+  "lac mabille": {
     "word": "lac Mabille",
     "pronunciation": "lakmabij",
     "definition": [
       "Mabille Lake"
     ]
   },
-  "lac Michigan": {
+  "lac michigan": {
     "word": "lac Michigan",
     "pronunciation": "lakmiʃigɑ̃",
     "definition": [
       "Lake Michigan"
     ]
   },
-  "lac Nipigon": {
+  "lac nipigon": {
     "word": "lac Nipigon",
     "pronunciation": "laknipigɔ̃",
     "definition": [
       "Nipigon Lake"
     ]
   },
-  "lac Norman": {
+  "lac norman": {
     "word": "lac Norman",
     "pronunciation": "laknɔʀman",
     "definition": [
       "Norman Lake"
     ]
   },
-  "lac Ontario": {
+  "lac ontario": {
     "word": "lac Ontario",
     "pronunciation": "lakɔ̃taʀjo",
     "definition": [
       "Lake Ontario"
     ]
   },
-  "lac Ross": {
+  "lac ross": {
     "word": "lac Ross",
     "pronunciation": "lakʀos",
     "definition": [
       "Ross Lake"
     ]
   },
-  "lac Sainte-Clair": {
+  "lac sainte-clair": {
     "word": "lac Sainte-Clair",
     "definition": [
       "Lake Saint Clair"
     ]
   },
-  "lac Supérieur": {
+  "lac supérieur": {
     "word": "lac Supérieur",
     "pronunciation": "laksypeʀjœʀ",
     "definition": [
       "Lake Superior"
     ]
   },
-  "lac Sénécal": {
+  "lac sénécal": {
     "word": "lac Sénécal",
     "pronunciation": "laksenekal",
     "definition": [
       "Sénécal Lake"
     ]
   },
-  "lac Témiscamingue": {
+  "lac témiscamingue": {
     "word": "lac Témiscamingue",
     "pronunciation": "laktemiskamɛ̃g",
     "definition": [
       "Lake Timiskaming"
     ]
   },
-  "lac Winnipeg": {
+  "lac winnipeg": {
     "word": "lac Winnipeg",
     "pronunciation": "lakwinipə",
     "definition": [
@@ -37925,28 +37925,28 @@
       "Lake Winnipegosis"
     ]
   },
-  "lac aux Allumettes": {
+  "lac aux allumettes": {
     "word": "lac aux Allumettes",
     "pronunciation": "lakoalymɛt",
     "definition": [
       "Allumette Lake"
     ]
   },
-  "lac des Bois": {
+  "lac des bois": {
     "word": "lac des Bois",
     "pronunciation": "lakdebwa",
     "definition": [
       "Lake of the Woods"
     ]
   },
-  "lac des Marets": {
+  "lac des marets": {
     "word": "lac des Marets",
     "pronunciation": "lakdemaʀɛ",
     "definition": [
       "Cheeseman Lake"
     ]
   },
-  "lac à la Pluie": {
+  "lac à la pluie": {
     "word": "lac à la Pluie",
     "pronunciation": "lakalaplɥi",
     "definition": [
@@ -37960,7 +37960,7 @@
       "shoe-lace"
     ]
   },
-  "lacs de la Frontière": {
+  "lacs de la frontière": {
     "word": "lacs de la Frontière",
     "pronunciation": "lakdəlafʀɔ̃tjɛʀ",
     "definition": [
@@ -41055,7 +41055,7 @@
       "sea"
     ]
   },
-  "mer Adriatique": {
+  "mer adriatique": {
     "word": "mer Adriatique",
     "pronunciation": "meadʀjatik",
     "definition": [
@@ -41063,21 +41063,21 @@
       "Adriatic Sea"
     ]
   },
-  "mer Baltique": {
+  "mer baltique": {
     "word": "mer Baltique",
     "pronunciation": "mebaltik",
     "definition": [
       "Baltic Sea"
     ]
   },
-  "mer Caspienne": {
+  "mer caspienne": {
     "word": "mer Caspienne",
     "pronunciation": "mekaspjɛn",
     "definition": [
       "Caspian Sea"
     ]
   },
-  "mer Egée": {
+  "mer egée": {
     "word": "mer Egée",
     "pronunciation": "meɛʒe",
     "definition": [
@@ -41085,35 +41085,35 @@
       "Aegean Sea"
     ]
   },
-  "mer Tyrrhénienne": {
+  "mer tyrrhénienne": {
     "word": "mer Tyrrhénienne",
     "pronunciation": "metiʀenijɛn",
     "definition": [
       "Tyrrhenian Sea"
     ]
   },
-  "mer d'Irlande": {
+  "mer d'irlande": {
     "word": "mer d'Irlande",
     "pronunciation": "mediʀlɑ̃d",
     "definition": [
       "Irish Sea"
     ]
   },
-  "mer de Beaufort": {
+  "mer de beaufort": {
     "word": "mer de Beaufort",
     "pronunciation": "medəbofɔʀ",
     "definition": [
       "Beaufort Sea"
     ]
   },
-  "mer du Labrador": {
+  "mer du labrador": {
     "word": "mer du Labrador",
     "pronunciation": "medylabʀadɔʀ",
     "definition": [
       "Labrador Sea"
     ]
   },
-  "mer du Nord": {
+  "mer du nord": {
     "word": "mer du Nord",
     "pronunciation": "medynɔʀ",
     "definition": [
@@ -41945,14 +41945,14 @@
       "mountain"
     ]
   },
-  "mont Cervin": {
+  "mont cervin": {
     "word": "mont Cervin",
     "pronunciation": "mɔ̃sɛʀvɛ̃",
     "definition": [
       "Matterhorn"
     ]
   },
-  "mont d'Iberville": {
+  "mont d'iberville": {
     "word": "mont d'Iberville",
     "pronunciation": "mɔ̃dibɛʀvil",
     "definition": [
@@ -41979,7 +41979,7 @@
       "mountain"
     ]
   },
-  "montagnes Rocheuses": {
+  "montagnes rocheuses": {
     "word": "montagnes Rocheuses",
     "pronunciation": "mɔ̃tagnʀoʃøz",
     "definition": [
@@ -42055,7 +42055,7 @@
       "show"
     ]
   },
-  "monts Torngat": {
+  "monts torngat": {
     "word": "monts Torngat",
     "pronunciation": "mɔ̃tɔʀga",
     "definition": [
@@ -44262,21 +44262,21 @@
       "ocean"
     ]
   },
-  "océan Antarctique": {
+  "océan antarctique": {
     "word": "océan Antarctique",
     "pronunciation": "ɔseɑ̃ɑ̃taʀktik",
     "definition": [
       "Antarctic Ocean"
     ]
   },
-  "océan Arctique": {
+  "océan arctique": {
     "word": "océan Arctique",
     "pronunciation": "ɔseɑ̃aʀktik",
     "definition": [
       "Arctic Ocean"
     ]
   },
-  "océan Atlantique": {
+  "océan atlantique": {
     "word": "océan Atlantique",
     "pronunciation": "ɔseɑ̃atlɑ̃tik",
     "definition": [
@@ -44284,14 +44284,14 @@
       "Atlantic Ocean"
     ]
   },
-  "océan Glacial du Nord": {
+  "océan glacial du nord": {
     "word": "océan Glacial du Nord",
     "pronunciation": "ɔseɑ̃glasjaldynɔʀ",
     "definition": [
       "Arctic Ocean"
     ]
   },
-  "océan Pacifique": {
+  "océan pacifique": {
     "word": "océan Pacifique",
     "pronunciation": "ɔseɑ̃pasifik",
     "definition": [
@@ -46411,7 +46411,7 @@
       "land"
     ]
   },
-  "pays de Galles": {
+  "pays de galles": {
     "word": "pays de Galles",
     "pronunciation": "pɛjdəgal",
     "definition": [
@@ -52032,21 +52032,21 @@
       "shallowly"
     ]
   },
-  "rapides Deschênes": {
+  "rapides deschênes": {
     "word": "rapides Deschênes",
     "pronunciation": "ʀapiddɛʃɛn",
     "definition": [
       "Deschênes Rapids"
     ]
   },
-  "rapides Norman": {
+  "rapides norman": {
     "word": "rapides Norman",
     "pronunciation": "ʀapidnɔʀman",
     "definition": [
       "Norman Rapids"
     ]
   },
-  "rapides Remic": {
+  "rapides remic": {
     "word": "rapides Remic",
     "pronunciation": "ʀapidʀəmik",
     "definition": [
@@ -54085,171 +54085,171 @@
       "river"
     ]
   },
-  "rivière Again": {
+  "rivière again": {
     "word": "rivière Again",
     "pronunciation": "ʀivjɛʀagɛ̃",
     "definition": [
       "Again River"
     ]
   },
-  "rivière Atabasca": {
+  "rivière atabasca": {
     "word": "rivière Atabasca",
     "pronunciation": "ʀivjɛʀatabaska",
     "definition": [
       "Athabasca"
     ]
   },
-  "rivière Bujeault": {
+  "rivière bujeault": {
     "word": "rivière Bujeault",
     "pronunciation": "ʀivjɛʀbyʒolt",
     "definition": [
       "Bujeault River"
     ]
   },
-  "rivière Harricana": {
+  "rivière harricana": {
     "word": "rivière Harricana",
     "pronunciation": "ʀivjɛʀaʀikana",
     "definition": [
       "Harricanaw River"
     ]
   },
-  "rivière Joir": {
+  "rivière joir": {
     "word": "rivière Joir",
     "pronunciation": "ʀivjɛʀʒwaʀ",
     "definition": [
       "Joir River"
     ]
   },
-  "rivière Kachekaosipou": {
+  "rivière kachekaosipou": {
     "word": "rivière Kachekaosipou",
     "pronunciation": "ʀivjɛʀkaʃkaozipu",
     "definition": [
       "Kachekaosipou River"
     ]
   },
-  "rivière Kedgwick": {
+  "rivière kedgwick": {
     "word": "rivière Kedgwick",
     "pronunciation": "ʀivjɛʀkəgwik",
     "definition": [
       "North Branch Kedgwick River"
     ]
   },
-  "rivière Madawaska": {
+  "rivière madawaska": {
     "word": "rivière Madawaska",
     "pronunciation": "ʀivjɛʀmadovaska",
     "definition": [
       "Madawaska River"
     ]
   },
-  "rivière Magusi": {
+  "rivière magusi": {
     "word": "rivière Magusi",
     "pronunciation": "ʀivjɛʀmagzi",
     "definition": [
       "Magusi River"
     ]
   },
-  "rivière Mercereau": {
+  "rivière mercereau": {
     "word": "rivière Mercereau",
     "pronunciation": "ʀivjɛʀmɛʀsəʀo",
     "definition": [
       "Mercereau River"
     ]
   },
-  "rivière Napetipi": {
+  "rivière napetipi": {
     "word": "rivière Napetipi",
     "pronunciation": "ʀivjɛʀnapətipi",
     "definition": [
       "Napetipi River"
     ]
   },
-  "rivière Natashquan": {
+  "rivière natashquan": {
     "word": "rivière Natashquan",
     "pronunciation": "ʀivjɛʀnatazkɑ̃",
     "definition": [
       "Natashquan River"
     ]
   },
-  "rivière Natashquan Est": {
+  "rivière natashquan est": {
     "word": "rivière Natashquan Est",
     "pronunciation": "ʀivjɛʀnatazkɑ̃ɛst",
     "definition": [
       "East Natasquan River"
     ]
   },
-  "rivière Patapédia": {
+  "rivière patapédia": {
     "word": "rivière Patapédia",
     "pronunciation": "ʀivjɛʀpatapedja",
     "definition": [
       "Patapedia River"
     ]
   },
-  "rivière Piscapecassy": {
+  "rivière piscapecassy": {
     "word": "rivière Piscapecassy",
     "pronunciation": "ʀivjɛʀpiskapəkassi",
     "definition": [
       "Piscapecassy River"
     ]
   },
-  "rivière Rigaud": {
+  "rivière rigaud": {
     "word": "rivière Rigaud",
     "pronunciation": "ʀivjɛʀʀigo",
     "definition": [
       "Rigaud River"
     ]
   },
-  "rivière Rigaud Est": {
+  "rivière rigaud est": {
     "word": "rivière Rigaud Est",
     "pronunciation": "ʀivjɛʀʀigoɛst",
     "definition": [
       "East Rigaud River"
     ]
   },
-  "rivière Rimouski": {
+  "rivière rimouski": {
     "word": "rivière Rimouski",
     "pronunciation": "ʀivjɛʀʀimuski",
     "definition": [
       "Rimouski River"
     ]
   },
-  "rivière Ristigouche": {
+  "rivière ristigouche": {
     "word": "rivière Ristigouche",
     "pronunciation": "ʀivjɛʀʀistiguʃ",
     "definition": [
       "Restigouche River"
     ]
   },
-  "rivière Saguenay": {
+  "rivière saguenay": {
     "word": "rivière Saguenay",
     "pronunciation": "ʀivjɛʀsagənɛj",
     "definition": [
       "Saguenay River"
     ]
   },
-  "rivière Saint-Augustin": {
+  "rivière saint-augustin": {
     "word": "rivière Saint-Augustin",
     "definition": [
       "Saint Augustin River"
     ]
   },
-  "rivière Saint-François": {
+  "rivière saint-françois": {
     "word": "rivière Saint-François",
     "definition": [
       "Saint Francis River"
     ]
   },
-  "rivière Saint-Jean": {
+  "rivière saint-jean": {
     "word": "rivière Saint-Jean",
     "definition": [
       "Saint John River"
     ]
   },
-  "rivière Saint-Paul": {
+  "rivière saint-paul": {
     "word": "rivière Saint-Paul",
     "definition": [
       "Saint Paul River"
     ]
   },
-  "rivière Saskachewan Nord": {
+  "rivière saskachewan nord": {
     "word": "rivière Saskachewan Nord",
     "pronunciation": "ʀivjɛʀsaskaʃuvɑ̃nɔʀ",
     "definition": [
@@ -54257,7 +54257,7 @@
       "North Saskatchewan River"
     ]
   },
-  "rivière Saskachewan Sud": {
+  "rivière saskachewan sud": {
     "word": "rivière Saskachewan Sud",
     "pronunciation": "ʀivjɛʀsaskaʃuvɑ̃syd",
     "definition": [
@@ -54265,49 +54265,49 @@
       "South Saskatchewan River"
     ]
   },
-  "rivière Turcotte": {
+  "rivière turcotte": {
     "word": "rivière Turcotte",
     "pronunciation": "ʀivjɛʀtyʀkɔt",
     "definition": [
       "Turcotte River"
     ]
   },
-  "rivière Verte": {
+  "rivière verte": {
     "word": "rivière Verte",
     "pronunciation": "ʀivjɛʀvɛʀt",
     "definition": [
       "Green River"
     ]
   },
-  "rivière de la Paix": {
+  "rivière de la paix": {
     "word": "rivière de la Paix",
     "pronunciation": "ʀivjɛʀdəlapɛ",
     "definition": [
       "Peace River"
     ]
   },
-  "rivière des Outaouais": {
+  "rivière des outaouais": {
     "word": "rivière des Outaouais",
     "pronunciation": "ʀivjɛʀdeutauɛ",
     "definition": [
       "Ottawa River"
     ]
   },
-  "rivière du Détour": {
+  "rivière du détour": {
     "word": "rivière du Détour",
     "pronunciation": "ʀivjɛʀdydetuʀ",
     "definition": [
       "Detour River"
     ]
   },
-  "rivière du Petit Mécatina": {
+  "rivière du petit mécatina": {
     "word": "rivière du Petit Mécatina",
     "pronunciation": "ʀivjɛʀdypətimekatina",
     "definition": [
       "Little Mecatina River"
     ]
   },
-  "rivière à la Pluie": {
+  "rivière à la pluie": {
     "word": "rivière à la Pluie",
     "pronunciation": "ʀivjɛʀalaplɥi",
     "definition": [
@@ -54738,133 +54738,133 @@
       "stream"
     ]
   },
-  "ruisseau Armstrong": {
+  "ruisseau armstrong": {
     "word": "ruisseau Armstrong",
     "pronunciation": "ʀɥisoaʀmstʀɔ̃ŋ",
     "definition": [
       "Armstrong Creek"
     ]
   },
-  "ruisseau Benedict": {
+  "ruisseau benedict": {
     "word": "ruisseau Benedict",
     "pronunciation": "ʀɥisobəndikt",
     "definition": [
       "Benedict Brook"
     ]
   },
-  "ruisseau Burwash": {
+  "ruisseau burwash": {
     "word": "ruisseau Burwash",
     "pronunciation": "ʀɥisobyʀwaʃ",
     "definition": [
       "Burwash Creek"
     ]
   },
-  "ruisseau Cedar": {
+  "ruisseau cedar": {
     "word": "ruisseau Cedar",
     "pronunciation": "ʀɥisosədaʀ",
     "definition": [
       "Cedar Brook"
     ]
   },
-  "ruisseau Chanion": {
+  "ruisseau chanion": {
     "word": "ruisseau Chanion",
     "pronunciation": "ʀɥisoʃanjɔ̃",
     "definition": [
       "Chanion Brook"
     ]
   },
-  "ruisseau Chisholm": {
+  "ruisseau chisholm": {
     "word": "ruisseau Chisholm",
     "pronunciation": "ʀɥisoʃiʃɔlm",
     "definition": [
       "Chisholm Brook"
     ]
   },
-  "ruisseau Julian": {
+  "ruisseau julian": {
     "word": "ruisseau Julian",
     "pronunciation": "ʀɥisoʒyljɑ̃",
     "definition": [
       "Julian Creek"
     ]
   },
-  "ruisseau McDiarmid": {
+  "ruisseau mcdiarmid": {
     "word": "ruisseau McDiarmid",
     "pronunciation": "ʀɥisomkdjaʀmi",
     "definition": [
       "McDiarmid Creek"
     ]
   },
-  "ruisseau Pollard": {
+  "ruisseau pollard": {
     "word": "ruisseau Pollard",
     "pronunciation": "ʀɥisopɔlaʀ",
     "definition": [
       "Pollard Brook"
     ]
   },
-  "ruisseau Pontiac": {
+  "ruisseau pontiac": {
     "word": "ruisseau Pontiac",
     "pronunciation": "ʀɥisopɔ̃tjak",
     "definition": [
       "Pontiac Creek"
     ]
   },
-  "ruisseau Pontleroy": {
+  "ruisseau pontleroy": {
     "word": "ruisseau Pontleroy",
     "pronunciation": "ʀɥisopɔ̃tləʀwaj",
     "definition": [
       "Pontleroy Creek"
     ]
   },
-  "ruisseau Prices": {
+  "ruisseau prices": {
     "word": "ruisseau Prices",
     "pronunciation": "ʀɥisopʀis",
     "definition": [
       "Prices Brook"
     ]
   },
-  "ruisseau Quigley": {
+  "ruisseau quigley": {
     "word": "ruisseau Quigley",
     "pronunciation": "ʀɥisokiglɛ",
     "definition": [
       "Quigley Brook"
     ]
   },
-  "ruisseau Saugeen": {
+  "ruisseau saugeen": {
     "word": "ruisseau Saugeen",
     "pronunciation": "ʀɥisosoʒi",
     "definition": [
       "Saugeen Creek"
     ]
   },
-  "ruisseau Sisson": {
+  "ruisseau sisson": {
     "word": "ruisseau Sisson",
     "pronunciation": "ʀɥisosisɔ̃",
     "definition": [
       "Sisson Brook"
     ]
   },
-  "ruisseau States Nord": {
+  "ruisseau states nord": {
     "word": "ruisseau States Nord",
     "pronunciation": "ʀɥisostatnɔʀ",
     "definition": [
       "North Branch States Brook"
     ]
   },
-  "ruisseau Sunday": {
+  "ruisseau sunday": {
     "word": "ruisseau Sunday",
     "pronunciation": "ʀɥisosydɛj",
     "definition": [
       "Sunday Creek"
     ]
   },
-  "ruisseau Sunrise": {
+  "ruisseau sunrise": {
     "word": "ruisseau Sunrise",
     "pronunciation": "ʀɥisosyʀiz",
     "definition": [
       "Sunrise Creek"
     ]
   },
-  "ruisseau Teed": {
+  "ruisseau teed": {
     "word": "ruisseau Teed",
     "pronunciation": "ʀɥisoti",
     "definition": [
@@ -61045,7 +61045,7 @@
       "heel"
     ]
   },
-  "talon d'Achille": {
+  "talon d'achille": {
     "word": "talon d'Achille",
     "pronunciation": "talɔ̃daʃi",
     "definition": [
@@ -61450,7 +61450,7 @@
       "tendon"
     ]
   },
-  "tendon d'Achille": {
+  "tendon d'achille": {
     "word": "tendon d'Achille",
     "pronunciation": "tɑ̃dɔ̃daʃi",
     "definition": [
@@ -61645,14 +61645,14 @@
       "territory"
     ]
   },
-  "territoire du Yukon": {
+  "territoire du yukon": {
     "word": "territoire du Yukon",
     "pronunciation": "tɛʀitwaʀdyjykɔ̃",
     "definition": [
       "Yukon Territory"
     ]
   },
-  "territoires du Nord-Ouest": {
+  "territoires du nord-ouest": {
     "word": "territoires du Nord-Ouest",
     "definition": [
       "Northwest Territories"
@@ -67055,20 +67055,20 @@
       "island"
     ]
   },
-  "île Maurice": {
+  "île maurice": {
     "word": "île Maurice",
     "pronunciation": "mɚʀiʃɚs",
     "definition": [
       "Mauritius"
     ]
   },
-  "îles Canaries": {
+  "îles canaries": {
     "word": "îles Canaries",
     "definition": [
       "Canary Islands"
     ]
   },
-  "îles Sorlingues": {
+  "îles sorlingues": {
     "word": "îles Sorlingues",
     "definition": [
       "Scilly Islands"
@@ -67087,7 +67087,7 @@
       "take away"
     ]
   },
-  "Œdipe": {
+  "œdipe": {
     "word": "Œdipe",
     "definition": [
       "Oedipus"
